@@ -2,8 +2,8 @@
 
 This repository contains a large JSON file that includes information about weapons, attachments, operators, skins, finishing moves, camos, and more. It's designed to be easy to use for building game configurations. All Weapons are populated with all attachments!
 
-## How JSON is formatted:
-
+## How JSON is formatted: 
+### Some need updating, but i will do, 
 ```json
 {
     "PRIMARY_WEAPONS": {

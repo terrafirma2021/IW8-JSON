@@ -1,0 +1,56 @@
+{
+    "PRIMARY_WEAPONS": {
+        "SMGS": {
+            "MP7": {
+                "Code": "iw8_sm_mpapa7",
+                "Attachments": {
+                    "Muzzle": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "Barrel": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "Laser": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "Optic": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "Stock": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "Underbarrel": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "Ammunition": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "RearGrip": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "Perks": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    }
+                }
+            }
+        }
+    }
+}

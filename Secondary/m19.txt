@@ -1,0 +1,59 @@
+{
+    "SECONDARY_WEAPONS": {
+        "M19": {
+            "Code": "iw8_pi_papa320",
+            "Attachments": {
+                "Muzzle": {
+                    "Muzzle Brake": "muzzle_brake",
+                    "Flash Guard": "flash_guard",
+                    "Monolithic Suppressor": "monolithic_suppressor",
+                    "Lightweight Suppressor": "lightweight_suppressor",
+                    "Compensator": "compensator",
+                    "Oil Can Suppressor": "oil_can_suppressor",
+                    "Tactical Suppressor": "tactical_suppressor"
+                },
+                "Barrel": {
+                    "XRK L Super": "xrk_l_super",
+                    "XRK V Extended": "xrk_v_extended",
+                    "A9-16 Lightweight": "a9_16_lightweight"
+                },
+                "Laser": {
+                    "1mW Laser": "1mw_laser",
+                    "5mW Laser": "5mw_laser",
+                    "Tac Laser": "tac_laser"
+                },
+                "Optic": {
+                    "Cronen LP945 Mini Reflex": "cronen_lp945_mini_reflex",
+                    "Solozero Optics Mini Reflex": "solozero_optics_mini_reflex",
+                    "G.I. Mini Reflex": "gi_mini_reflex"
+                },
+                "Trigger Action": {
+                    "Lightweight Trigger": "lightweight_trigger",
+                    "Heavy Duty Trigger": "heavy_duty_trigger",
+                    "Match Grade Trigger": "match_grade_trigger"
+                },
+                "Ammunition": {
+                    "21 Round Mags": "21_round_mags",
+                    "32 Round Mags (M19)": "32_round_mags_m19"
+                },
+                "Rear Grip": {
+                    "Granulated Grip Tape (Rear Grip)": "granulated_grip_tape_rear_grip",
+                    "Rubberized Grip Tape (Rear Grip)": "rubberized_grip_tape_rear_grip",
+                    "Stippled Grip Tape (Rear Grip)": "stippled_grip_tape_rear_grip"
+                },
+                "Perk": {
+                    "Fast Melee": "gunperk_fastmelee",
+                    "Frangible - Wounding": "ammomod_wound",
+                    "Fully Loaded": "maxammo",
+                    "FMJ": "fmj",
+                    "Mo' Money": "gunperk_xp",
+                    "Heavy Hitter": "gunperk_hardmelee",
+                    "Sleight of Hand": "fastreload",
+                    "Recon": "gunperk_marksman",
+                    "Frangible - Disabling": "ammomod_slow",
+                    "Akimbo": "gunperk_akimbo"
+                }
+            }
+        }
+    }
+}

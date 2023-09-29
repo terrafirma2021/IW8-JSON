@@ -1,0 +1,56 @@
+{
+    "PRIMARY_WEAPONS": {
+        "SHOTGUNS": {
+            "VLKRogue": {
+                "Code": "iw8_sh_mike26",
+                "Attachments": {
+                    "Muzzle": {
+                        "Choke": "choke"
+                    },
+                    "Barrel": {
+                        "Czar": "barmid",
+                        "6\"Revolt": "barshort",
+                        "16\"Warlord": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "Czar": "barmid",
+                        "6\"Revolt": "barshort",
+                        "16\"Warlord": "barlong"
+                    },
+                    "Underbarrel": {
+                        "Race": "gripvert",
+                        "Prime": "gripang",
+                        "Relia": "gripcust"
+                    },
+                    "Ammunition": {
+                        "12Rnd": "xmags",
+                        "8RndSlug": "calcust",
+                        "4Rnd": "smags"
+                    },
+                    "RearGrip": {
+                        "Polymer": "pistolgrip01",
+                        "EXO": "pistolgrip02",
+                        "Rubber": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "Bulldog": "guardheavy",
+                        "Ultralight": "guardlight",
+                        "CloseQuarters": "guardcust"
+                    }
+                }
+            }
+        }
+    }
+}

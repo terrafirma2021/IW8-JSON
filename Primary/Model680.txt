@@ -1,0 +1,48 @@
+{
+    "PRIMARY_WEAPONS": {
+        "SHOTGUNS": {
+            "Model680": {
+                "Code": "iw8_sh_romeo870",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3",
+                        "Choke": "choke"
+                    },
+                    "Barrel": {
+                        "18\"": "barcust",
+                        "14\"": "barshort",
+                        "30\"": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash"
+                    }
+                }
+            }
+        }
+    }
+}

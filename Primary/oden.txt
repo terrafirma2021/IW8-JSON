@@ -1,0 +1,70 @@
+{
+    "PRIMARY_WEAPONS": {
+        "ASSAULT_RIFLES": {
+            "Oden(ShAK-12)": {
+                "Code": "iw8_ar_asierra12",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "MU001",
+                        "Breacher": "MU002",
+                        "Tactical": "MU003",
+                        "MuzzleBrake": "MU004",
+                        "Lightweight": "MU005",
+                        "Compensator": "MU006",
+                        "Monolithic": "MU007"
+                    },
+                    "Barrel": {
+                        "810mm": "BA001",
+                        "730mm": "BA002",
+                        "420mm": "BA003"
+                    },
+                    "Laser": {
+                        "Tac": "LA001",
+                        "1mW": "LA002",
+                        "5mW": "LA003"
+                    },
+                    "Optic": {
+                        "Operator": "OP001",
+                        "Aim-Op": "OP002",
+                        "Viper": "OP003",
+                        "Monocle": "OP004",
+                        "IntegralReflex": "OP005"
+                    },
+                    "Stock": {
+                        "TACUltralight": "ST001",
+                        "SniperPro": "ST002"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "UB001",
+                        "Recon": "UB002",
+                        "HighExplosive": "UB003",
+                        "Flash": "UB004",
+                        "Smokescreen": "UB005",
+                        "Concussive": "UB006",
+                        "Incendiary": "UB007"
+                    },
+                    "Ammunition": {
+                        "50Rnd": "xmags",
+                        "60Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "RG001",
+                        "Granulated": "RG002",
+                        "Rubberized": "RG003"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        }
+    }
+}

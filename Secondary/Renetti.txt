@@ -1,0 +1,73 @@
+{
+    "SECONDARY_WEAPONS": {
+        "Renetti": {
+            "Code": "iw8_pi_mike9",
+            "Attachments": {
+                "Muzzle": {
+                    "Flash Guard": "iw8_pi_mike9_flashguard",
+                    "Oil Can Suppressor": "iw8_pi_mike9_lightweight",
+                    "Muzzle Brake": "iw8_pi_mike9_blight",
+                    "Tactical Suppressor": "iw8_pi_mike9_silencer",
+                    "Desperado Pro Compensator": "iw8_pi_mike9_matchcompensator",
+                    "Monolithic Suppressor": "iw8_pi_mike9_lightweightsuppressor",
+                    "Lightweight Suppressor": "iw8_pi_mike9_compensator"
+                },
+                "Barrel": {
+                    "Mk1 Competition": "iw8_pi_mike9_compensatormk1",
+                    "Mk1 Extended": "iw8_pi_mike9_extendedbarrel",
+                    "Mk3 Burst Mod": "iw8_pi_mike9_burstmod"
+                },
+                "Laser": {
+                    "1mW Laser": "iw8_pi_mike9_laser1mw",
+                    "5mW Laser": "iw8_pi_mike9_laser5mw",
+                    "Tac Laser": "iw8_pi_mike9_taclaser"
+                },
+                "Optic": {
+                    "Cronen LP945 Mini Reflex": "iw8_pi_mike9_reflexmini",
+                    "Operator Reflex Sight": "iw8_pi_mike9_reflex",
+                    "Corp Combat Holo Sight": "iw8_pi_mike9_holo",
+                    "Solozero Optics Mini Reflex": "iw8_pi_mike9_reflexmini2",
+                    "Aim-Op Reflex Sight": "iw8_pi_mike9_reflexmini3",
+                    "Scout Combat Optic": "iw8_pi_mike9_acog2",
+                    "APX5 Holographic Sight": "iw8_pi_mike9_holo2",
+                    "Monocle Reflex Sight": "iw8_pi_mike9_reflex4",
+                    "VLK 2.5x Optic": "iw8_pi_mike9_vzscope",
+                    "G.I. Mini Reflex": "iw8_pi_mike9_reflex5",
+                    "XRK 4.0x Pistol Scope": "iw8_pi_mike9_scope",
+                    "Viper Reflex Sight": "iw8_pi_mike9_reflex3",
+                    "Cronen C480 Pro Optic": "iw8_pi_mike9_acog3"
+                },
+                "Stock": {
+                    "FTAC Satus CS-3": "iw8_pi_mike9_stockno",
+                    "FTAC G-X": "iw8_pi_mike9_stockcust",
+                    "FTAC Satus CS-X": "iw8_pi_mike9_stockfold"
+                },
+                "Trigger Action": {
+                    "Lightweight Trigger": "iw8_pi_mike9_trigger1",
+                    "Heavy Duty Trigger": "iw8_pi_mike9_trigger2",
+                    "Match Grade Trigger": "iw8_pi_mike9_trigger3"
+                },
+                "Magazine": {
+                    "21 Round Mags": "iw8_pi_mike9_xmags",
+                    "27 Round Mags": "iw8_pi_mike9_xmagslrg"
+                },
+                "Rear Grip": {
+                    "XRK Pro Grip": "iw8_pi_mike9_pistolgrip02",
+                    "XRK Speed Grip": "iw8_pi_mike9_pistolgrip03"
+                },
+                "Perk": {
+                    "Fast Melee": "gunperk_fastmelee",
+                    "Frangible - Disabling": "ammomod_slow",
+                    "Akimbo": "pistol_akimbo",
+                    "Recon": "gunperk_marksman",
+                    "Fully Loaded": "maxammo",
+                    "FMJ": "fmj",
+                    "Frangible - Wounding": "ammomod_wound",
+                    "Mo' Money": "gunperk_xp",
+                    "Sleight of Hand": "fastreload",
+                    "Heavy Hitter": "gunperk_hardmelee"
+                }
+            }
+        }
+    }
+}

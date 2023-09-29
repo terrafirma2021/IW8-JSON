@@ -1,0 +1,69 @@
+{
+    "PRIMARY_WEAPONS": {
+        "SMGS": {
+            "Uzi": {
+                "Code": "iw8_sm_uzulu",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "13.1\"": "barmid",
+                        "8.5\"": "barcust",
+                        "16.5\"": "barlong",
+                        "CarbinePro": "barcust2"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "Standard-Issue": "stockh"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash",
+                        "Smokescreen": "glsmoke",
+                        "Concussive": "glconc",
+                        "Incendiary": "glincendiary"
+                    },
+                    "Ammunition": {
+                        "40Rnd": "xmags",
+                        "50Rnd": "xmagslrg",
+                        ".41AE32Rnd": "calcust"
+                    },
+                    "RearGrip": {
+                        "Standard-Issue": "pistolgrip01"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        }
+    }
+}

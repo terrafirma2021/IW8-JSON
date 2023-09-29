@@ -1,0 +1,64 @@
+{
+    "PRIMARY_WEAPONS": {
+        "ASSAULT_RIFLES": {
+            "FAL": {
+                "Code": "iw8_ar_falima",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "MU001",
+                        "Breacher": "MU002",
+                        "Tactical": "MU003",
+                        "MuzzleBrake": "MU004",
+                        "Lightweight": "MU005",
+                        "Compensator": "MU006",
+                        "Monolithic": "MU007"
+                    },
+                    "Barrel": {
+                        "18\"Ultralight": "BA001",
+                        "Marksman": "BA002",
+                        "13\"Para": "BA003"
+                    },
+                    "Laser": {
+                        "Tac": "LA001",
+                        "1mW": "LA002",
+                        "5mW": "LA003"
+                    },
+                    "Optic": {
+                        "Operator": "OP001",
+                        "Aim-Op": "OP002",
+                        "Viper": "OP003",
+                        "Monocle": "OP004",
+                        "IntegralReflex": "OP005"
+                    },
+                    "Stock": {
+                        "Aluminum": "ST001",
+                        "Stalker": "ST002"
+                    },
+                    "Underbarrel": {
+                        "RangerForegrip": "UB001",
+                        "OperatorForegrip": "UB002"
+                    },
+                    "Ammunition": {
+                        "24Rnd": "xmags",
+                        "30Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Viper": "pistolgrip01",
+                        "R-89Rubber": "pistolgrip02"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        }
+    }
+}

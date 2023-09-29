@@ -1,0 +1,261 @@
+{
+    "WEAPON_CAMO_LIST": {
+        "SPRAYPAINT": {
+            "DesertSnake": "camo_01a",
+            "Commando": "camo_01b",
+            "RipNTear": "camo_01c",
+            "MoroccanSnake": "camo_01d",
+            "PitterPatter": "camo_01e",
+            "ChinaLake": "camo_01f",
+            "PinstripeSuit": "camo_01g",
+            "ChainLink": "camo_01h",
+            "Nightfall": "camo_01i",
+            "Smoke": "camo_01j"
+        },
+        "WOODLAND": {
+            "Swamp": "camo_02a",
+            "ModernWoodland": "camo_02b",
+            "DesertHybrid": "camo_02c",
+            "SandDance": "camo_02d",
+            "Marshland": "camo_02e",
+            "KillBrush": "camo_02f",
+            "WarcomGreens": "camo_02g",
+            "WarcomBlues": "camo_02h",
+            "Nightfrost": "camo_02i",
+            "Canopy": "camo_02j"
+        },
+        "DIGTIAL": {
+            "UrbanDigital": "camo_03a",
+            "JungleDigital": "camo_03b",
+            "ArcticDigital": "camo_03c",
+            "ForestDigital": "camo_03d",
+            "MarshDigital": "camo_03e",
+            "BarkDigital": "camo_03f",
+            "BlueDigital": "camo_03g",
+            "ClassicDigital": "camo_03h",
+            "DesertDigital": "camo_03i",
+            "GreenDigital": "camo_03j"
+        },
+        "DRAGON": {
+            "H20": "camo_04a",
+            "Dirt": "camo_04b",
+            "Moss": "camo_04c",
+            "Tagged": "camo_04d",
+            "BlackTop": "camo_04e",
+            "Asphalt": "camo_04f",
+            "CrimeScene": "camo_04g",
+            "NeonPink": "camo_04h",
+            "TrailBlazer": "camo_04i",
+            "Foliage": "camo_04j"
+        },
+        "SPLINTER": {
+            "Tundra": "camo_05a",
+            "Undergrowth": "camo_05b",
+            "Frostbite": "camo_05c",
+            "IceBreaker": "camo_05d",
+            "Ruins": "camo_05e",
+            "ArcticSeafoam": "camo_05f",
+            "Angeles": "camo_05g",
+            "AutumnDazzle": "camo_05h",
+            "ArcticAbstract": "camo_05i",
+            "SharpEdges": "camo_05j"
+        },
+        "TOPO": {
+            "Off-grid": "camo_06a",
+            "NightSeas": "camo_06b",
+            "MarshOps": "camo_06c",
+            "Forestation": "camo_06d",
+            "Phosphor": "camo_06e",
+            "VectorTrails": "camo_06f",
+            "TopoTrip": "camo_06g",
+            "Barren": "camo_06h",
+            "Vanished": "camo_06i",
+            "Sandstorm": "camo_06j"
+        },
+        "TIGER": {
+            "Overgrown": "camo_07a",
+            "Mudslide": "camo_07b",
+            "DankForest": "camo_07c",
+            "Abominable": "camo_07d",
+            "FadedVeil": "camo_07e",
+            "FeralBeast": "camo_07f",
+            "TigerStripes": "camo_07g",
+            "DesertCat": "camo_07h",
+            "RedTiger": "camo_07i",
+            "BlueTiger": "camo_07j"
+        },
+        "STRIPES": {
+            "Grassland": "camo_08a",
+            "TigersMane": "camo_08b",
+            "TheKhan": "camo_08c",
+            "Savannah": "camo_08d",
+            "Zebra": "camo_08e",
+            "BlueGrass": "camo_08f",
+            "Africa": "camo_08g",
+            "NuWaveZebra": "camo_08h",
+            "GreenGrass": "camo_08i",
+            "PinkZebra": "camo_08j"
+        },
+        "REPTILE": {
+            "Python": "camo_09a",
+            "Rattlesnake": "camo_09b",
+            "Komodo": "camo_09c",
+            "BlueIguana": "camo_09d",
+            "Chupacabra": "camo_09e",
+            "PinkPython": "camo_09f",
+            "Anaconda": "camo_09g",
+            "Bullsnake": "camo_09h",
+            "Gecko": "camo_09i",
+            "Gartersnake": "camo_09j"
+        },
+        "SKULLS": {
+            "Necropolis": "camo_10a",
+            "CorpseDigger": "camo_10b",
+            "Ossuary": "camo_10c",
+            "Haunting": "camo_10d",
+            "Phantom": "camo_10e",
+            "ForestWraith": "camo_10f",
+            "Hemophiliac": "camo_10g",
+            "Skullduggery": "camo_10h",
+            "Cthulhu": "camo_10i",
+            "Lichyard": "camo_10j"
+        },
+        "COMPLETIONIST": {
+            "Gold": "camo_11a",
+            "Platinum": "camo_11b",
+            "Damascus": "camo_11c",
+            "Obsidian": "camo_11d"
+        },
+        "SPECIAL": {
+            "Hot&Cold": "camo_00a",
+            "Activcamo": "camo_00b",
+            "Banded": "camo_00c",
+            "AtlantaFaze": "camo_12a",
+            "ChicagoHuntsmen": "camo_12b",
+            "DallasEmpire": "camo_12c",
+            "FloridaMutineers": "camo_12d",
+            "LAGuerrillas": "camo_12e",
+            "LondonRoyalRavens": "camo_12f",
+            "MinnesotaRokkr": "camo_12g",
+            "NewYorkSubliners": "camo_12h",
+            "OpticGaming": "camo_12i",
+            "ParisLegion": "camo_12j",
+            "SeattleSurge": "camo_12k",
+            "TorontoUltra": "camo_12l"
+        }
+    },
+    "RETICLES_LIST": {
+        "ACOG": {
+            "CrossDot": "ret14",
+            "AngleEye": "ret15",
+            "TPose": "ret16",
+            "DoubleCross": "ret17",
+            "GreenCross": "ret18",
+            "RedEye": "ret21",
+            "BlueV": "ret22"
+        },
+        "HOLO": {
+            "DownwardCurve": "ret01",
+            "Witch": "ret07",
+            "Islet": "ret11",
+            "Summoner": "ret12",
+            "Orbit": "ret13",
+            "CloseQuarters": "ret23",
+            "Sunrise": "ret25",
+            "EvilEye": "ret26",
+            "BlueDot": "ret47",
+            "Reverence": "ret49"
+        },
+        "REFLEX": {
+            "Carrot": "ret02",
+            "SunSpot": "ret03",
+            "AddPoint": "ret04",
+            "GoldenBell": "ret05",
+            "StandardFare": "ret06",
+            "PerfectBalance": "ret08",
+            "Division": "ret09",
+            "Flare": "ret10",
+            "GreenV": "ret24",
+            "BlueDot": "ret46",
+            "Reverence": "ret48"
+        },
+        "THERMAL": {
+            "Weave": "ret19",
+            "DropPad": "ret20",
+            "Cerberus": "ret27",
+            "ZipPad": "ret28",
+            "WrightSight": "ret29",
+            "OpticalIllusion": "ret30",
+            "BeastsOfPrey": "ret31"
+        },
+        "HYBRID THERMAL": {
+            "DarkHorizon": "ret39",
+            "StealthBomber": "ret40",
+            "Spectre": "ret41",
+            "Tracker": "ret42",
+            "Quadrants": "ret43",
+            "All-seeing": "ret44",
+            "Pearl": "ret45"
+        },
+        "SNIPER": {
+            "Crossthread": "retsnpr01",
+            "Pinpoint": "retsnpr02",
+            "OneBreath": "retsnpr03",
+            "Hangman": "retsnpr04",
+            "DropAngle": "retsnpr05",
+            "CirclePit": "retsnpr06",
+            "CoverShot": "retsnpr07",
+            "TopNotch": "retsnpr08",
+            "Marksman": "retsnpr09",
+            "GridLine": "retsnpr10",
+            "Critical": "retsnpr11"
+        }
+    },
+    "PERKS_LIST": {
+        "SLOT 0": {
+            "DoubleTime": "specialty_hustle",
+            "E.O.D.": "specialty_eod",
+            "Scavenger": "specialty_scavenger_plus",
+            "Cold-Blooded": "specialty_covert_ops",
+            "KillChain": "specialty_heavy_metal",
+            "QuickFix": "specialty_quick_fix"
+        },
+        "SLOT 1": {
+            "Restock": "specialty_restock",
+            "Hardline": "specialty_hardline",
+            "Overkill": "specialty_munitions_2",
+            "HighAlert": "specialty_surveillance",
+            "Ghost": "specialty_guerrilla",
+            "Pointman": "specialty_strategist"
+        },
+        "SLOT 2": {
+            "TuneUp": "specialty_tune_up",
+            "Amped": "specialty_warhead",
+            "Shrapnel": "specialty_extra_shrapnel",
+            "BattleHardened": "specialty_tac_resist",
+            "Spotter": "specialty_tactical_recon",
+            "Tracker": "specialty_huntmaster"
+        }
+    },
+    "LETHALS_LIST": {
+        "Claymore": "equip_claymore",
+        "FragGrenade": "equip_frag",
+        "MolotovCocktail": "equip_molotov",
+        "C4": "equip_c4",
+        "Semtex": "equip_semtex",
+        "ThrowingKnife": "equip_throwing_knife",
+        "FlamingKnife": "equip_throwing_knife_fire",
+        "ProximityMine": "equip_at_mine",
+        "Thermite": "equip_thermite"
+    },
+    "TACTICALS_LIST": {
+        "FlashGrenade": "equip_flash",
+        "StunGrenade": "equip_concussion",
+        "SmokeGrenade": "equip_smoke",
+        "SnapshotGrenade": "equip_snapshot_grenade",
+        "HeartbeatSensor": "equip_hb_sensor",
+        "Stim": "equip_adrenaline",
+        "DecoyGrenade": "equip_decoy",
+        "GasGrenade": "equip_gas_grenade"
+    }
+}

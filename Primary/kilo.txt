@@ -1,0 +1,71 @@
+{
+    "PRIMARY_WEAPONS": {
+        "ASSAULT_RIFLES": {
+            "Kilo141(HK433)": {
+                "Code": "iw8_ar_kilo433",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "16.6\"SOCOM": "barshort",
+                        "19.8\"Prowler": "barlong",
+                        "Whisper": "barsil"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash",
+                        "Smokescreen": "glsmoke",
+                        "Concussive": "glconc",
+                        "Incendiary": "glincendiary"
+                    },
+                    "Ammunition": {
+                        "100RndDrum": "drums",
+                        "50Rnd": "xmags",
+                        "60Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        }
+    }
+}

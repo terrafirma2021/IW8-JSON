@@ -1,0 +1,3348 @@
+{
+    "PRIMARY_WEAPONS": {
+        "SHOTGUNS": {
+            "725": {
+                "Code": "iw8_sh_charlie725",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "18\"": "barcust",
+                        "14\"": "barshort",
+                        "30\"": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash",
+                        "Smokescreen": "glsmoke",
+                        "Concussive": "glconc",
+                        "Incendiary": "glincendiary"
+                    },
+                    "Ammunition": {
+                        "TubeExtension": "xmags",
+                        "SlugRnds": "calcust2",
+                        "Dragon'sBreathRnds": "calcust"
+                    },
+                    "RearGrip": {
+                        "SlimGrip": "guardlight",
+                        "SteadyGrip": "guardheavy",
+                        "Commander": "guardcust"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "Model680": {
+                "Code": "iw8_sh_romeo870",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3",
+                        "Choke": "choke"
+                    },
+                    "Barrel": {
+                        "18\"": "barcust",
+                        "14\"": "barshort",
+                        "30\"": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash"
+                    }
+                }
+            },
+            "Origin12": {
+                "Code": "iw8_sh_oscar12",
+                "Attachments": {
+                    "Muzzle": {
+                        "Choke": "choke"
+                    },
+                    "Barrel": {
+                        "Marauder": "barmid",
+                        "Wideshot": "barshort",
+                        "Impaler": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "Precision": "barmid",
+                        "Wideshot": "barshort",
+                        "Impaler": "barlong"
+                    },
+                    "Underbarrel": {
+                        "Guardian": "stockl",
+                        "PrecisionFixed": "stockh",
+                        "Gen3Survivalist": "stocks"
+                    },
+                    "Ammunition": {
+                        "TubeExtension": "xmags",
+                        "SlugRnds": "calcust2",
+                        "Dragon'sBreathRnds": "calcust"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "R9-0": {
+                "Code": "iw8_sh_dpapa12",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Bulldog": "guardheavy",
+                        "Ultralight": "guardlight",
+                        "CloseQuarters": "guardcust"
+                    },
+                    "Barrel": {
+                        "Sentry": "barlong",
+                        "Gemini": "barshort"
+                    },
+                    "Laser": {
+                        "Granulated": "gripvert",
+                        "Stippled": "gripcust",
+                        "Rubberized": "gripvertpro"
+                    },
+                    "Optic": {
+                        "ScoutCombatOptic": "acog",
+                        "VLK3.0x": "acog2",
+                        "CronenC480": "acog3",
+                        "K498Integral": "acog4",
+                        "Integral3.0x": "scopenorail",
+                        "Cronen2x2Elite": "acog3"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl"
+                    },
+                    "Underbarrel": {
+                        "CommandoForegrip": "gripang",
+                        "MercForegrip": "gripvert",
+                        "TacticalForegrip": "gripangpro",
+                        "Bulldog": "guardheavy",
+                        "Ultralight": "guardlight",
+                        "CloseQuarters": "guardcust"
+                    },
+                    "Ammunition": {
+                        "TubeExtension": "xmags",
+                        "SlugRnds": "calcust2"
+                    },
+                    "RearGrip": {
+                        "Bulldog": "guardheavy",
+                        "Ultralight": "guardlight",
+                        "CloseQuarters": "guardcust"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "VLKRogue": {
+                "Code": "iw8_sh_mike26",
+                "Attachments": {
+                    "Muzzle": {
+                        "Choke": "choke"
+                    },
+                    "Barrel": {
+                        "Czar": "barmid",
+                        "6\"Revolt": "barshort",
+                        "16\"Warlord": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "Czar": "barmid",
+                        "6\"Revolt": "barshort",
+                        "16\"Warlord": "barlong"
+                    },
+                    "Underbarrel": {
+                        "Race": "gripvert",
+                        "Prime": "gripang",
+                        "Relia": "gripcust"
+                    },
+                    "Ammunition": {
+                        "12Rnd": "xmags",
+                        "8RndSlug": "calcust",
+                        "4Rnd": "smags"
+                    },
+                    "RearGrip": {
+                        "Polymer": "pistolgrip01",
+                        "EXO": "pistolgrip02",
+                        "Rubber": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "Bulldog": "guardheavy",
+                        "Ultralight": "guardlight",
+                        "CloseQuarters": "guardcust"
+                    }
+                }
+            }
+        },
+        "ASSAULT_RIFLES": {
+            "Kilo47(AK-47)": {
+                "Code": "iw8_ar_akilo47",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "MU001",
+                        "Breacher": "MU002",
+                        "Tactical": "MU003",
+                        "MuzzleBrake": "MU004",
+                        "Lightweight": "MU005",
+                        "Compensator": "MU006",
+                        "Monolithic": "MU007",
+                        "SpetsnazElite": "MU008"
+                    },
+                    "Barrel": {
+                        "Bayonet": "melee",
+                        "23\"RPK": "barlong",
+                        "8.1\"Compact": "barshortnoguard",
+                        "23\"Romanian": "barcustnoguard"
+                    },
+                    "Laser": {
+                        "Tac": "LA001",
+                        "1mW": "LA002",
+                        "5mW": "LA003"
+                    },
+                    "Optic": {
+                        "Operator": "OP001",
+                        "Aim-Op": "OP002",
+                        "Viper": "OP003",
+                        "Monocle": "OP004",
+                        "IntegralReflex": "OP005"
+                    },
+                    "Stock": {
+                        "FieldLMG": "stockh",
+                        "Ultralight": "stockcust"
+                    },
+                    "Underbarrel": {
+                        "RangerForegrip": "gripcust",
+                        "OperatorForegrip": "gripvertpro"
+                    },
+                    "Ammunition": {
+                        "40Rnd": "xmags",
+                        "30Rnd5.45": "calsmg",
+                        "75Rnd": "drums"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "FAL": {
+                "Code": "iw8_ar_falima",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "MU001",
+                        "Breacher": "MU002",
+                        "Tactical": "MU003",
+                        "MuzzleBrake": "MU004",
+                        "Lightweight": "MU005",
+                        "Compensator": "MU006",
+                        "Monolithic": "MU007"
+                    },
+                    "Barrel": {
+                        "18\"Ultralight": "BA001",
+                        "Marksman": "BA002",
+                        "13\"Para": "BA003"
+                    },
+                    "Laser": {
+                        "Tac": "LA001",
+                        "1mW": "LA002",
+                        "5mW": "LA003"
+                    },
+                    "Optic": {
+                        "Operator": "OP001",
+                        "Aim-Op": "OP002",
+                        "Viper": "OP003",
+                        "Monocle": "OP004",
+                        "IntegralReflex": "OP005"
+                    },
+                    "Stock": {
+                        "Aluminum": "ST001",
+                        "Stalker": "ST002"
+                    },
+                    "Underbarrel": {
+                        "RangerForegrip": "UB001",
+                        "OperatorForegrip": "UB002"
+                    },
+                    "Ammunition": {
+                        "24Rnd": "xmags",
+                        "30Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Viper": "pistolgrip01",
+                        "R-89Rubber": "pistolgrip02"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "FNScar17": {
+                "Code": "iw8_ar_scharlie",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "MU001",
+                        "Breacher": "MU002",
+                        "Tactical": "MU003",
+                        "MuzzleBrake": "MU004",
+                        "Lightweight": "MU005",
+                        "Compensator": "MU006",
+                        "Monolithic": "MU007"
+                    },
+                    "Barrel": {
+                        "17.2\"": "BA001",
+                        "20\"": "BA002",
+                        "CQCPro": "BA003"
+                    },
+                    "Laser": {
+                        "Tac": "LA001",
+                        "1mW": "LA002",
+                        "5mW": "LA003"
+                    },
+                    "Optic": {
+                        "Operator": "OP001",
+                        "Aim-Op": "OP002",
+                        "Viper": "OP003",
+                        "Monocle": "OP004",
+                        "IntegralReflex": "OP005"
+                    },
+                    "Stock": {
+                        "Collapsible": "ST001",
+                        "ObeliskPro": "ST002"
+                    },
+                    "Underbarrel": {
+                        "BipodForegrip": "UB001",
+                        "RangerForegrip": "UB002",
+                        "OperatorForegrip": "UB003"
+                    },
+                    "Ammunition": {
+                        "25Rnd": "xmags",
+                        "30Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "RG001",
+                        "Granulated": "RG002",
+                        "Rubberized": "RG003"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "FR5.56(FAMAS)": {
+                "Code": "iw8_ar_falpha",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "MU001",
+                        "Breacher": "MU002",
+                        "Tactical": "MU003",
+                        "MuzzleBrake": "MU004",
+                        "Lightweight": "MU005",
+                        "Compensator": "MU006",
+                        "Monolithic": "MU007"
+                    },
+                    "Barrel": {
+                        "15.9\"Commando": "BA001",
+                        "24.4\"Sniper": "BA002",
+                        "Ultralight": "BA003"
+                    },
+                    "Laser": {
+                        "Tac": "LA001",
+                        "1mW": "LA002",
+                        "5mW": "LA003"
+                    },
+                    "Optic": {
+                        "Operator": "OP001",
+                        "Aim-Op": "OP002",
+                        "Viper": "OP003",
+                        "Monocle": "OP004",
+                        "IntegralReflex": "OP005"
+                    },
+                    "Stock": {
+                        "TACUltralight": "ST001",
+                        "SniperPro": "ST002"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "UB001",
+                        "Recon": "UB002",
+                        "HighExplosive": "UB003",
+                        "Flash": "UB004",
+                        "Smokescreen": "UB005",
+                        "Concussive": "UB006",
+                        "Incendiary": "UB007"
+                    },
+                    "Ammunition": {
+                        "50Rnd": "xmags",
+                        "60Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "RG001",
+                        "Granulated": "RG002",
+                        "Rubberized": "RG003"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "Grau(SG552)": {
+                "Code": "iw8_ar_sierra552",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "DrifterA-08": "barshort",
+                        "26.5\"Archangel": "barcust",
+                        "CZENmk2": "barmid",
+                        "20.8\"Nexus": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash",
+                        "Smokescreen": "glsmoke",
+                        "Concussive": "glconc",
+                        "Incendiary": "glincendiary"
+                    },
+                    "Ammunition": {
+                        "100RndDrum": "drums",
+                        "50Rnd": "xmags",
+                        "60Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "Kilo141(HK433)": {
+                "Code": "iw8_ar_kilo433",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "16.6\"SOCOM": "barshort",
+                        "19.8\"Prowler": "barlong",
+                        "Whisper": "barsil"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash",
+                        "Smokescreen": "glsmoke",
+                        "Concussive": "glconc",
+                        "Incendiary": "glincendiary"
+                    },
+                    "Ammunition": {
+                        "100RndDrum": "drums",
+                        "50Rnd": "xmags",
+                        "60Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "M13(MCX)": {
+                "Code": "iw8_ar_mcharlie",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "MU001",
+                        "Breacher": "MU002",
+                        "Tactical": "MU003",
+                        "MuzzleBrake": "MU004",
+                        "Lightweight": "MU005",
+                        "Compensator": "MU006",
+                        "Monolithic": "MU007"
+                    },
+                    "Barrel": {
+                        "Mini": "BA001",
+                        "Cyclone": "BA002",
+                        "Marksman": "BA003"
+                    },
+                    "Laser": {
+                        "Tac": "LA001",
+                        "1mW": "LA002",
+                        "5mW": "LA003"
+                    },
+                    "Optic": {
+                        "Operator": "OP001",
+                        "Aim-Op": "OP002",
+                        "Viper": "OP003",
+                        "Monocle": "OP004",
+                        "IntegralReflex": "OP005"
+                    },
+                    "Stock": {
+                        "Ultralight": "ST001"
+                    },
+                    "Underbarrel": {
+                        "RangerForegrip": "UB001",
+                        "OperatorForegrip": "UB002"
+                    },
+                    "Ammunition": {
+                        "50Rnd": "xmags",
+                        "60Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "RG001",
+                        "Granulated": "RG002",
+                        "Rubberized": "RG003"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "M4A1": {
+                "Code": "iw8_ar_mike4",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "MU001",
+                        "Breacher": "MU002",
+                        "Tactical": "MU003",
+                        "MuzzleBrake": "MU004",
+                        "Lightweight": "MU005",
+                        "Compensator": "MU006",
+                        "Monolithic": "MU007"
+                    },
+                    "Barrel": {
+                        "11.5\"Commando": "BA001",
+                        "StockM16Gren": "BA002",
+                        "14.5\"TacLite": "BA003",
+                        "CorvusCustom": "BA004",
+                        "12.4\"Predator": "BA005"
+                    },
+                    "Laser": {
+                        "Tac": "LA001",
+                        "1mW": "LA002",
+                        "5mW": "LA003"
+                    },
+                    "Optic": {
+                        "Operator": "OP001",
+                        "Aim-Op": "OP002",
+                        "Viper": "OP003",
+                        "Monocle": "OP004",
+                        "IntegralReflex": "OP005"
+                    },
+                    "Stock": {
+                        "TACUltralight": "ST001",
+                        "SniperPro": "ST002"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "UB001",
+                        "Recon": "UB002",
+                        "HighExplosive": "UB003",
+                        "Flash": "UB004",
+                        "Smokescreen": "UB005",
+                        "Concussive": "UB006",
+                        "Incendiary": "UB007"
+                    },
+                    "Ammunition": {
+                        "50Rnd": "xmags",
+                        "60Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "RG001",
+                        "Granulated": "RG002",
+                        "Rubberized": "RG003"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "Oden(ShAK-12)": {
+                "Code": "iw8_ar_asierra12",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "MU001",
+                        "Breacher": "MU002",
+                        "Tactical": "MU003",
+                        "MuzzleBrake": "MU004",
+                        "Lightweight": "MU005",
+                        "Compensator": "MU006",
+                        "Monolithic": "MU007"
+                    },
+                    "Barrel": {
+                        "810mm": "BA001",
+                        "730mm": "BA002",
+                        "420mm": "BA003"
+                    },
+                    "Laser": {
+                        "Tac": "LA001",
+                        "1mW": "LA002",
+                        "5mW": "LA003"
+                    },
+                    "Optic": {
+                        "Operator": "OP001",
+                        "Aim-Op": "OP002",
+                        "Viper": "OP003",
+                        "Monocle": "OP004",
+                        "IntegralReflex": "OP005"
+                    },
+                    "Stock": {
+                        "TACUltralight": "ST001",
+                        "SniperPro": "ST002"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "UB001",
+                        "Recon": "UB002",
+                        "HighExplosive": "UB003",
+                        "Flash": "UB004",
+                        "Smokescreen": "UB005",
+                        "Concussive": "UB006",
+                        "Incendiary": "UB007"
+                    },
+                    "Ammunition": {
+                        "50Rnd": "xmags",
+                        "60Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "RG001",
+                        "Granulated": "RG002",
+                        "Rubberized": "RG003"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "RAM-7(Tavor)": {
+                "Code": "iw8_ar_tango21",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "MU001",
+                        "Breacher": "MU002",
+                        "Tactical": "MU003",
+                        "MuzzleBrake": "MU004",
+                        "Lightweight": "MU005",
+                        "Compensator": "MU006",
+                        "Monolithic": "MU007"
+                    },
+                    "Barrel": {
+                        "13.5\"Compact": "barshort",
+                        "Eclipse": "barmid",
+                        "Ranger": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "LA001",
+                        "1mW": "LA002",
+                        "5mW": "LA003"
+                    },
+                    "Optic": {
+                        "Operator": "OP001",
+                        "Aim-Op": "OP002",
+                        "Viper": "OP003",
+                        "Monocle": "OP004",
+                        "IntegralReflex": "OP005"
+                    },
+                    "Stock": {
+                        "Equilibrium": "stockh"
+                    },
+                    "Underbarrel": {
+                        "13-GaugeCompact": "ub001",
+                        "Cronen": "ub002",
+                        "MercForegrip": "gripvert",
+                        "TacticalForegrip": "gripangpro"
+                    },
+                    "Ammunition": {
+                        "50Rnd": "xmags"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        },
+        "SMGS": {
+            "AUG": {
+                "Code": "iw8_sm_augolf",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "407mmExtended": "barmid",
+                        "407mmLightweight": "barshort",
+                        "622mmLong": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash",
+                        "Smokescreen": "glsmoke",
+                        "Concussive": "glconc",
+                        "Incendiary": "glincendiary"
+                    },
+                    "Ammunition": {
+                        "100RndDrum": "drums",
+                        "50Rnd": "xmags",
+                        "60Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "MP5": {
+                "Code": "iw8_sm_mpapa5",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "FSSLight": "barmid",
+                        "Monolithic": "barsil",
+                        "FSSMini": "barshort",
+                        "Subsonic": "barsil2"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "Straight-line": "stocks",
+                        "CloseQuarters": "stockh",
+                        "Collapsible": "stockno"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash",
+                        "Smokescreen": "glsmoke",
+                        "Concussive": "glconc",
+                        "Incendiary": "glincendiary"
+                    },
+                    "Ammunition": {
+                        "100RndDrum": "drums",
+                        "50Rnd": "xmags",
+                        "60Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "MP7": {
+                "Code": "iw8_sm_mpapa7",
+                "Attachments": {
+                    "Muzzle": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "Barrel": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "Laser": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "Optic": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "Stock": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "Underbarrel": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "Ammunition": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "RearGrip": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    },
+                    "Perks": {
+                        "FSSRecon": "barlong",
+                        "FSSStrike": "barmid",
+                        "FSSSWAT": "barshort"
+                    }
+                }
+            },
+            "P90": {
+                "Code": "iw8_sm_papa90",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "10.6\"": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "CQBComb": "stockh",
+                        "FlyStrap": "stockl",
+                        "HeavyStock": "stocks"
+                    },
+                    "Underbarrel": {
+                        "Straight-line": "stocks",
+                        "CloseQuarters": "stockh",
+                        "Collapsible": "stockno"
+                    },
+                    "Ammunition": {
+                        "45Rnd": "xmags",
+                        "10mm30Rnd": "calcust"
+                    },
+                    "RearGrip": {
+                        "Granulated": "gripvert",
+                        "Stippled": "gripcust",
+                        "Rubberized": "gripvertpro"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "PP19Bizon": {
+                "Code": "iw8_sm_beta",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "Steel": "barlong",
+                        "Polygonal": "barcust",
+                        "Aluminum": "barshort"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "CQBComb": "stockh",
+                        "FlyStrap": "stockl",
+                        "HeavyStock": "stocks"
+                    },
+                    "Underbarrel": {
+                        "Straight-line": "stocks",
+                        "CloseQuarters": "stockh",
+                        "Collapsible": "stockno"
+                    },
+                    "Ammunition": {
+                        "45Rnd": "xmags",
+                        "10mm30Rnd": "calcust"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "Striker45": {
+                "Code": "iw8_sm_smgolf45",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "300mm": "barmid",
+                        "400mm": "barlong",
+                        "150mm": "barshort"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "Guardian": "stockl",
+                        "PrecisionFixed": "stockh",
+                        "Gen3Survivalist": "stocks"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash",
+                        "Smokescreen": "glsmoke",
+                        "Concussive": "glconc",
+                        "Incendiary": "glincendiary"
+                    },
+                    "Ammunition": {
+                        "HollowPoint": "smags",
+                        "45Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Polymer": "pistolgrip01",
+                        "EXO": "pistolgrip02",
+                        "Rubber": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "Uzi": {
+                "Code": "iw8_sm_uzulu",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "13.1\"": "barmid",
+                        "8.5\"": "barcust",
+                        "16.5\"": "barlong",
+                        "CarbinePro": "barcust2"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "Standard-Issue": "stockh"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash",
+                        "Smokescreen": "glsmoke",
+                        "Concussive": "glconc",
+                        "Incendiary": "glincendiary"
+                    },
+                    "Ammunition": {
+                        "40Rnd": "xmags",
+                        "50Rnd": "xmagslrg",
+                        ".41AE32Rnd": "calcust"
+                    },
+                    "RearGrip": {
+                        "Standard-Issue": "pistolgrip01"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        },
+        "LMGS": {
+            "BruenMk9(M249)": {
+                "Code": "iw8_lm_mkilo3",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "16.6\"SOCOM": "barshort",
+                        "19.8\"Prowler": "barlong",
+                        "Whisper": "barsil"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash",
+                        "Smokescreen": "glsmoke",
+                        "Concussive": "glconc",
+                        "Incendiary": "glincendiary"
+                    },
+                    "Ammunition": {
+                        "100RndDrum": "drums",
+                        "50Rnd": "xmags",
+                        "60Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "Holger-26(MG36)": {
+                "Code": "iw8_lm_mgolf36",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "XRKUltralight": "barmid",
+                        "8.98\"Spitfire": "barshort"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh"
+                    },
+                    "Underbarrel": {
+                        "RangerForegrip": "gripcust",
+                        "OperatorForegrip": "gripvertpro"
+                    },
+                    "Ammunition": {
+                        "30Rnd": "calcust"
+                    },
+                    "RearGrip": {
+                        "Ranger": "pistolgrip02",
+                        "Infantry": "pistolgrip03",
+                        "Axis": "pistolgrip01"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "M91(M240)": {
+                "Code": "iw8_lm_kilo121",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "SpecialForces": "barmid",
+                        "Infantry": "barshort",
+                        "Heavy": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash",
+                        "Smokescreen": "glsmoke",
+                        "Concussive": "glconc",
+                        "Incendiary": "glincendiary"
+                    },
+                    "Ammunition": {
+                        "100Rnd": "xmags",
+                        "200Rnd": "drums"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "MG34": {
+                "Code": "iw8_lm_mgolf34",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "18.2\"": "barshort",
+                        "26.9\"": "barmid",
+                        "25.9\"": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "NoStock": "stockno",
+                        "FtackSport": "stockcust"
+                    },
+                    "Underbarrel": {
+                        "CommandoForegrip": "gripang",
+                        "MercForegrip": "gripvert",
+                        "TacticalForegrip": "gripangpro"
+                    },
+                    "Ammunition": {
+                        "75Rnd": "xmags",
+                        "100Rnd": "drums"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "PKM": {
+                "Code": "iw8_lm_pkilo",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "18.2\"": "barshort",
+                        "26.9\"": "barmid",
+                        "25.9\"": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "NoStock": "stockno",
+                        "FtackSport": "stockcust",
+                        "TACUltralight": "stockl"
+                    },
+                    "Underbarrel": {
+                        "CommandoForegrip": "gripang",
+                        "MercForegrip": "gripvert",
+                        "TacticalForegrip": "gripangpro",
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash",
+                        "Smokescreen": "glsmoke",
+                        "Concussive": "glconc",
+                        "Incendiary": "glincendiary"
+                    },
+                    "Ammunition": {
+                        "150Rnd": "xmags",
+                        "200Rnd": "drums"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "SA87": {
+                "Code": "iw8_lm_lima86",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "18.2\"": "barmid",
+                        "25.4\"": "barlong",
+                        "12.4\"": "barshort"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "ScoutCombatOptic": "acog",
+                        "VLK3.0x": "acog2",
+                        "CronenC480": "acog3",
+                        "K498Integral": "acog4",
+                        "Integral3.0x": "scopenorail",
+                        "Cronen2x2Elite": "acog3"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh",
+                        "CloseQuarters": "stocks"
+                    },
+                    "Underbarrel": {
+                        "RangerForegrip": "gripcust",
+                        "OperatorForegrip": "gripvertpro"
+                    },
+                    "Ammunition": {
+                        "50Rnd": "xmags",
+                        "60Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        },
+        "MARKSMAN RIFLES": {
+            "Crossbow": {
+                "Code": "iw8_sn_crossbow",
+                "Attachments": {
+                    "Optic": {
+                        "MidTrak4.0x": "scope",
+                        "RangemasterVZ": "vzscope",
+                        "Cronen LP945 Mini Reflex": "reflex2",
+                        "Aim-Op Reflex Sight": "reflex3",
+                        "G.I. Mini Reflex": "reflex4",
+                        "Viper Reflex Sight": "reflex5",
+                        "Corp Combat Holo Sight": "holo",
+                        "APX5 Holographic Sight": "holo2",
+                        "PBX Holo 7 Sight": "holo3",
+                        "Scout Combat Optic": "scope2",
+                        "Operator Reflex Sight": "reflex",
+                        "XRK MidTrak 4.0x Scope": "scope4",
+                        "Solozero NVG Enhanced": "scope5",
+                        "VLK 3.0x Optic": "scope6",
+                        "Cronen C480 Pro Optic": "scope7",
+                        "Solozero Optics Mini Reflex": "reflex6",
+                        "Monocle Reflex Sight": "reflex7",
+                        "Merc Thermal Optic": "thermal",
+                        "XRK Rangemaster VZ": "scope8"
+                    },
+                    "Stock": {
+                        "Apex": "stockh",
+                        "DartCB": "stockl",
+                        "SpeedTrak": "stocks"
+                    },
+                    "Bolt": {
+                        "Fury": "bolt2",
+                        "Venom": "bolt3",
+                        "Backburn": "bolt4"
+                    },
+                    "Cable": {
+                        "16-Strand Cable": "uimod_cable16",
+                        "28-Strand Cable": "uimod_cable28"
+                    },
+                    "Arms": {
+                        "Thunder 200 Lb": "uimod_xrk_thunder200",
+                        "Quill 100 Lb": "uimod_xrk_quill100",
+                        "Carbon Elite": "uimod_xrk_carbonelite"
+                    },
+                    "Laser": {
+                        "Tac Laser": "laser"
+                    },
+                    "Stocks": {
+                        "FORGE TAC Apex": "stock1",
+                        "FORGE TAC Dart CB": "stock2",
+                        "FSS SpeedTrak": "stock3"
+                    },
+                    "Pistol Grips": {
+                        "FTAC Speed Grip": "pistolgrip01",
+                        "XRK Precision Grip": "pistolgrip02",
+                        "XRK Talon": "pistolgrip03"
+                    },
+                    "Bolts": {
+                        "FTAC Fury 20\" Bolts": "xbolt",
+                        "FTAC Venom 20\" Bolts": "xbolt2",
+                        "FTAC Backburn 20\" Bolts": "xbolt3"
+                    },
+                    "Gun Perks": {
+                        "Heavy Hitter": "gunperk_hardmelee",
+                        "Sleight of Hand": "fastreload",
+                        "Frangible - Wounding": "ammomod_wound",
+                        "Fully Loaded": "maxammo",
+                        "Presence of Mind": "gunperk_fastfocus",
+                        "Mo' Money": "gunperk_xp",
+                        "Focus": "gunperk_focus",
+                        "Fast Melee": "gunperk_fastmelee",
+                        "Recon": "gunperk_marksman",
+                        "Frangible - Disabling": "ammomod_slow"
+                    }
+                }
+            },
+            "EBR-14(M14)": {
+                "Code": "iw8_sn_mike14",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "20\"": "barmid",
+                        "Elite": "barshort",
+                        "22\"": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "PrecisionComb": "stockh",
+                        "ChassisPro": "stockfold",
+                        "Lightweight": "stockno",
+                        "ChassisElite": "stockcust"
+                    },
+                    "Underbarrel": {
+                        "Bipod": "bipod",
+                        "RangerForegrip": "gripcust"
+                    },
+                    "Ammunition": {
+                        "15Rnd": "xmags",
+                        "20Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "Kar98K": {
+                "Code": "iw8_sn_kilo98",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Bulldog": "gripang",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh"
+                    },
+                    "Underbarrel": {
+                        "Bipod": "bipod",
+                        "MercForegrip": "gripvert",
+                        "TacticalForegrip": "gripangpro"
+                    },
+                    "Ammunition": {
+                        "5Rnd": "xkar98",
+                        "15Rnd": "xkar98lrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "MK2Carbine": {
+                "Code": "iw8_sn_sbeta",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "BreachDevice": "melee",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Reflex": "reflex",
+                        "G.I.Mini": "reflexmini",
+                        "SolozeroMini": "reflexmini2",
+                        "CronenLP945": "reflexmini3",
+                        "RingSight": "scope"
+                    },
+                    "Stock": {
+                        "NoStock": "stockno",
+                        "FtackSport": "stockcust"
+                    },
+                    "Underbarrel": {
+                        "CommandoForegrip": "gripang",
+                        "MercForegrip": "gripvert",
+                        "TacticalForegrip": "gripangpro"
+                    },
+                    "Ammunition": {
+                        "10Rnd": "xmags",
+                        "30Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "SKS": {
+                "Code": "iw8_sn_sksierra",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "Landmark": "barmid",
+                        "16\"Para": "barshort",
+                        "22\"M59/66": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh"
+                    },
+                    "Underbarrel": {
+                        "CommandoForegrip": "gripang",
+                        "MercForegrip": "gripvert",
+                        "TacticalForegrip": "gripangpro",
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash",
+                        "Smokescreen": "glsmoke",
+                        "Concussive": "glconc",
+                        "Incendiary": "glincendiary"
+                    },
+                    "Ammunition": {
+                        "30Rnd": "xmagslrg",
+                        "10Rnd": "xmags"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        },
+        "SNIPER RIFLES": {
+            "Dragunov": {
+                "Code": "iw8_sn_delta",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2"
+                    },
+                    "Barrel": {
+                        "510mm": "barshort",
+                        "660mm": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh"
+                    },
+                    "Underbarrel": {
+                        "Bipod": "bipod",
+                        "RangerForegrip": "gripcust"
+                    },
+                    "Ammunition": {
+                        "25Rnd": "xmags"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            },
+            "AX-50": {
+                "Code": "iw8_sn_alpha50",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "BREACHER DEVICE": "melee",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic (Sight)": {
+                        "SniperScope": "scope",
+                        "VariableZoom": "vzscope",
+                        "Brownlee32mm": "scope",
+                        "PUScope": "scope"
+                    },
+                    "Stock": {
+                        "NoStock": "stockno",
+                        "FtackSport": "stockcust"
+                    },
+                    "Underbarrel": {
+                        "CommandoForegrip": "gripang",
+                        "MercForegrip": "gripvert",
+                        "TacticalForegrip": "gripangpro"
+                    },
+                    "Ammunition": {
+                        "7RoundMags": "mags",
+                        "9RoundMags": "mags"
+                    },
+                    "RearGrip": {
+                        "Granulated": "pistolgrip01",
+                        "Stippled": "pistolgrip02",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "Focus": "focus",
+                        "Breacher Device": "melee",
+                        "Heavy Hitter": "gunperk_hardmelee",
+                        "Sleight of Hand": "fastreload",
+                        "Fully Loaded": "maxammo",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "FMJ": "fmj",
+                        "Frangible - Wounding": "ammomod_wound",
+                        "Frangible - Disabling": "ammomod_slow"
+                    }
+                }
+            }
+        },
+        "MELEE": {
+            "RiotShield": "iw8_me_riotshield"
+        }
+    },
+    "SECONDARY_WEAPONS": {
+        "1911": {
+            "Code": "iw8_pi_mike1911",
+            "Attachments": {
+                "Muzzle": {
+                    "FlashGuard": "MU001",
+                    "Oil Can Suppressor": "MU002",
+                    "Muzzle Brake": "MU003",
+                    "Tactical Suppressor": "MU004",
+                    "Compensator": "MU005",
+                    "Monolithic Suppressor": "MU006",
+                    "Lightweight Suppressor": "MU007"
+                },
+                "Barrel": {
+                    ".45 Compact": "BA001",
+                    ".45 Match Grade": "BA002",
+                    "1911 Stalker": "BA003"
+                },
+                "Laser": {
+                    "1mW Laser": "LA001",
+                    "5mW Laser": "LA002",
+                    "Tac Laser": "LA003"
+                },
+                "Optic": {
+                    "Cronen LP945 Mini Reflex": "OP001",
+                    "Solozero Optics Mini Reflex": "OP002",
+                    "G.I. Mini Reflex": "OP003"
+                },
+                "Trigger Action": {
+                    "Lightweight Trigger": "TA001",
+                    "Heavy Duty Trigger": "TA002",
+                    "Match Grade Trigger": "TA003"
+                },
+                "Ammunition": {
+                    "10 Round Mags (1911)": "AM001",
+                    "15 Round Mags (1911)": "AM002"
+                },
+                "Rear Grip": {
+                    "Rubberized Grip Tape (Rear Grip)": "RG001",
+                    "Stippled Grip Tape (Rear Grip)": "RG002",
+                    "Granulated Grip Tape (Rear Grip)": "RG003"
+                },
+                "Perk": {
+                    "Fast Melee": "gunperk_fastmelee",
+                    "Frangible - Disabling": "ammomod_slow",
+                    "Recon": "gunperk_marksman",
+                    "Fully Loaded": "maxammo",
+                    "FMJ": "fmj",
+                    "Frangible - Wounding": "ammomod_wound",
+                    "Mo' Money": "gunperk_xp",
+                    "Sleight of Hand": "fastreload",
+                    "Heavy Hitter": "gunperk_hardmelee",
+                    "Akimbo": "akimbo"
+                }
+            }
+        },
+        ".357 Magnum": {
+            "Code": "iw8_pi_cpapa",
+            "Attachments": {
+                "Muzzle": {
+                    "Flash Guard": "flashguard",
+                    "Muzzle Brake": "muzzlebrake",
+                    "Compensator": "compensator"
+                },
+                "Barrel": {
+                    ".357 Snub Nose": "snubnose",
+                    "Silverfield Ordnance .357": "silverfield",
+                    ".357 Long": "long"
+                },
+                "Laser": {
+                    "1mW Laser": "1mw",
+                    "5mW Laser": "5mw",
+                    "Tac Laser": "taclaser"
+                },
+                "Optic": {
+                    "Operator Reflex Sight": "operator",
+                    "Aim-Op Reflex Sight": "aimop",
+                    "Corp Combat Holo Sight": "holo",
+                    "G.I. Mini Reflex": "minireflex",
+                    "Solozero Optics Mini Reflex": "solozero",
+                    "Scout Combat Optic": "scout",
+                    "APX5 Holographic Sight": "apx5",
+                    "Viper Reflex Sight": "viper",
+                    "VLK 3.0x Optic": "vlk30x",
+                    "Cronen LP945 Mini Reflex": "cronenlp945",
+                    "Monocle Reflex Sight": "monocle",
+                    "Cronen C480 Pro Optic": "cronenc480",
+                    "Lockwood Pistol Scope": "lockwood"
+                },
+                "Trigger Action": {
+                    "Lightweight Trigger": "lightweight",
+                    "Heavy Duty Trigger": "heavyduty",
+                    "Match Grade Trigger": "matchgrade"
+                },
+                "Magazine": {
+                    "Snake Shot": "snakeshot"
+                },
+                "Perk": {
+                    "Fast Melee": "gunperk_fastmelee",
+                    "Frangible - Disabling": "ammomod_slow",
+                    "Fully Loaded": "maxammo",
+                    "Sleight of Hand": "fastreload",
+                    "Frangible - Wounding": "ammomod_wound",
+                    "Mo' Money": "gunperk_xp",
+                    "Recon": "gunperk_marksman",
+                    "Heavy Hitter": "gunperk_hardmelee",
+                    "FMJ": "fmj"
+                }
+            }
+        },
+        ".50GS DEagle": {
+            "Code": "iw8_pi_decho",
+            "Attachments": {
+                "Muzzle": {
+                    "Flash Guard Muzzle": "MU001",
+                    "Muzzle Brake Muzzle": "MU002",
+                    "Monolithic Suppressor Muzzle": "MU003",
+                    "Oil Can Suppressor Muzzle": "MU004",
+                    "Compensator Muzzle": "MU005",
+                    "Lightweight Suppressor Muzzle": "MU006",
+                    "Tactical Suppressor Muzzle": "MU007"
+                },
+                "Barrel": {
+                    "FORGE TAC Extended Barrel": "BA001",
+                    "FORGE TAC Enforcer Barrel": "BA002"
+                },
+                "Laser": {
+                    "1mW Laser Laser": "LA001",
+                    "5mW Laser Laser": "LA002",
+                    "Tac Laser Laser": "LA003"
+                },
+                "Optic": {
+                    "Operator Reflex Sight Optic": "OP001",
+                    "Cronen LP945 Mini Reflex Optic": "OP002",
+                    "Corp Combat Holo Sight Optic": "OP003",
+                    "Aim-Op Reflex Sight Optic": "OP004",
+                    "Solozero Optics Mini Reflex Optic": "OP005",
+                    "APX5 Holographic Sight Optic": "OP006",
+                    "Viper Reflex Sight Optic": "OP007",
+                    "Scout Combat Optic Optic": "OP008",
+                    "G.I. Mini Reflex Optic": "OP009",
+                    "VLK 3.0x Optic Optic": "OP010",
+                    "Monocle Reflex Sight Optic": "OP011",
+                    "Cronen C480 Pro Optic Optic": "OP012"
+                },
+                "Trigger Action": {
+                    "Lightweight Trigger Trigger Action": "TR001",
+                    "Heavy Duty Trigger Trigger Action": "TR002",
+                    "Match Grade Trigger Trigger Action": "TR003"
+                },
+                "Ammunition": {
+                    "10 Round Mags .50 GS Ammunition": "AM001",
+                    "13 Round Mags Ammunition": "AM002"
+                },
+                "Rear Grip": {
+                    "Granulated Grip Tape Rear Grip": "RG001",
+                    "Stippled Grip Tape Rear Grip": "RG002",
+                    "Rubberized Grip Tape Rear Grip": "RG003"
+                },
+                "Perk": {
+                    "Fast Melee Perk": "PR001",
+                    "Frangible - Disabling Perk": "PR005",
+                    "Fully Loaded Perk": "PR003",
+                    "Sleight of Hand Perk": "PR004",
+                    "Mo' Money Perk": "PR006",
+                    "Recon Perk": "PR007",
+                    "Heavy Hitter Perk": "PR008",
+                    "FMJ Perk": "PR009",
+                    "Akimbo Perk": "PR010"
+                }
+            }
+        },
+        "M19": {
+            "Code": "iw8_pi_papa320",
+            "Attachments": {
+                "Muzzle": {
+                    "Muzzle Brake": "muzzle_brake",
+                    "Flash Guard": "flash_guard",
+                    "Monolithic Suppressor": "monolithic_suppressor",
+                    "Lightweight Suppressor": "lightweight_suppressor",
+                    "Compensator": "compensator",
+                    "Oil Can Suppressor": "oil_can_suppressor",
+                    "Tactical Suppressor": "tactical_suppressor"
+                },
+                "Barrel": {
+                    "XRK L Super": "xrk_l_super",
+                    "XRK V Extended": "xrk_v_extended",
+                    "A9-16 Lightweight": "a9_16_lightweight"
+                },
+                "Laser": {
+                    "1mW Laser": "1mw_laser",
+                    "5mW Laser": "5mw_laser",
+                    "Tac Laser": "tac_laser"
+                },
+                "Optic": {
+                    "Cronen LP945 Mini Reflex": "cronen_lp945_mini_reflex",
+                    "Solozero Optics Mini Reflex": "solozero_optics_mini_reflex",
+                    "G.I. Mini Reflex": "gi_mini_reflex"
+                },
+                "Trigger Action": {
+                    "Lightweight Trigger": "lightweight_trigger",
+                    "Heavy Duty Trigger": "heavy_duty_trigger",
+                    "Match Grade Trigger": "match_grade_trigger"
+                },
+                "Ammunition": {
+                    "21 Round Mags": "21_round_mags",
+                    "32 Round Mags (M19)": "32_round_mags_m19"
+                },
+                "Rear Grip": {
+                    "Granulated Grip Tape (Rear Grip)": "granulated_grip_tape_rear_grip",
+                    "Rubberized Grip Tape (Rear Grip)": "rubberized_grip_tape_rear_grip",
+                    "Stippled Grip Tape (Rear Grip)": "stippled_grip_tape_rear_grip"
+                },
+                "Perk": {
+                    "Fast Melee": "gunperk_fastmelee",
+                    "Frangible - Wounding": "ammomod_wound",
+                    "Fully Loaded": "maxammo",
+                    "FMJ": "fmj",
+                    "Mo' Money": "gunperk_xp",
+                    "Heavy Hitter": "gunperk_hardmelee",
+                    "Sleight of Hand": "fastreload",
+                    "Recon": "gunperk_marksman",
+                    "Frangible - Disabling": "ammomod_slow",
+                    "Akimbo": "gunperk_akimbo"
+                }
+            }
+        },
+        "Renetti": {
+            "Code": "iw8_pi_mike9",
+            "Attachments": {
+                "Muzzle": {
+                    "Flash Guard": "iw8_pi_mike9_flashguard",
+                    "Oil Can Suppressor": "iw8_pi_mike9_lightweight",
+                    "Muzzle Brake": "iw8_pi_mike9_blight",
+                    "Tactical Suppressor": "iw8_pi_mike9_silencer",
+                    "Desperado Pro Compensator": "iw8_pi_mike9_matchcompensator",
+                    "Monolithic Suppressor": "iw8_pi_mike9_lightweightsuppressor",
+                    "Lightweight Suppressor": "iw8_pi_mike9_compensator"
+                },
+                "Barrel": {
+                    "Mk1 Competition": "iw8_pi_mike9_compensatormk1",
+                    "Mk1 Extended": "iw8_pi_mike9_extendedbarrel",
+                    "Mk3 Burst Mod": "iw8_pi_mike9_burstmod"
+                },
+                "Laser": {
+                    "1mW Laser": "iw8_pi_mike9_laser1mw",
+                    "5mW Laser": "iw8_pi_mike9_laser5mw",
+                    "Tac Laser": "iw8_pi_mike9_taclaser"
+                },
+                "Optic": {
+                    "Cronen LP945 Mini Reflex": "iw8_pi_mike9_reflexmini",
+                    "Operator Reflex Sight": "iw8_pi_mike9_reflex",
+                    "Corp Combat Holo Sight": "iw8_pi_mike9_holo",
+                    "Solozero Optics Mini Reflex": "iw8_pi_mike9_reflexmini2",
+                    "Aim-Op Reflex Sight": "iw8_pi_mike9_reflexmini3",
+                    "Scout Combat Optic": "iw8_pi_mike9_acog2",
+                    "APX5 Holographic Sight": "iw8_pi_mike9_holo2",
+                    "Monocle Reflex Sight": "iw8_pi_mike9_reflex4",
+                    "VLK 2.5x Optic": "iw8_pi_mike9_vzscope",
+                    "G.I. Mini Reflex": "iw8_pi_mike9_reflex5",
+                    "XRK 4.0x Pistol Scope": "iw8_pi_mike9_scope",
+                    "Viper Reflex Sight": "iw8_pi_mike9_reflex3",
+                    "Cronen C480 Pro Optic": "iw8_pi_mike9_acog3"
+                },
+                "Stock": {
+                    "FTAC Satus CS-3": "iw8_pi_mike9_stockno",
+                    "FTAC G-X": "iw8_pi_mike9_stockcust",
+                    "FTAC Satus CS-X": "iw8_pi_mike9_stockfold"
+                },
+                "Trigger Action": {
+                    "Lightweight Trigger": "iw8_pi_mike9_trigger1",
+                    "Heavy Duty Trigger": "iw8_pi_mike9_trigger2",
+                    "Match Grade Trigger": "iw8_pi_mike9_trigger3"
+                },
+                "Magazine": {
+                    "21 Round Mags": "iw8_pi_mike9_xmags",
+                    "27 Round Mags": "iw8_pi_mike9_xmagslrg"
+                },
+                "Rear Grip": {
+                    "XRK Pro Grip": "iw8_pi_mike9_pistolgrip02",
+                    "XRK Speed Grip": "iw8_pi_mike9_pistolgrip03"
+                },
+                "Perk": {
+                    "Fast Melee": "gunperk_fastmelee",
+                    "Frangible - Disabling": "ammomod_slow",
+                    "Akimbo": "pistol_akimbo",
+                    "Recon": "gunperk_marksman",
+                    "Fully Loaded": "maxammo",
+                    "FMJ": "fmj",
+                    "Frangible - Wounding": "ammomod_wound",
+                    "Mo' Money": "gunperk_xp",
+                    "Sleight of Hand": "fastreload",
+                    "Heavy Hitter": "gunperk_hardmelee"
+                }
+            }
+        },
+        "LAUNCHERS": {
+            "PILA": "iw8_la_gromeo",
+            "Strela-P(CarlG)": "iw8_la_kgolf",
+            "JOKR(Javelin)": "iw8_la_juliet",
+            "RPG-7": "iw8_la_rpapa7"
+        },
+        "MELEE": {
+            "CombatKnife": "iw8_knife"
+        }
+    },
+    "WEAPON_CAMO_LIST": {
+        "SPRAYPAINT": {
+            "DesertSnake": "camo_01a",
+            "Commando": "camo_01b",
+            "RipNTear": "camo_01c",
+            "MoroccanSnake": "camo_01d",
+            "PitterPatter": "camo_01e",
+            "ChinaLake": "camo_01f",
+            "PinstripeSuit": "camo_01g",
+            "ChainLink": "camo_01h",
+            "Nightfall": "camo_01i",
+            "Smoke": "camo_01j"
+        },
+        "WOODLAND": {
+            "Swamp": "camo_02a",
+            "ModernWoodland": "camo_02b",
+            "DesertHybrid": "camo_02c",
+            "SandDance": "camo_02d",
+            "Marshland": "camo_02e",
+            "KillBrush": "camo_02f",
+            "WarcomGreens": "camo_02g",
+            "WarcomBlues": "camo_02h",
+            "Nightfrost": "camo_02i",
+            "Canopy": "camo_02j"
+        },
+        "DIGTIAL": {
+            "UrbanDigital": "camo_03a",
+            "JungleDigital": "camo_03b",
+            "ArcticDigital": "camo_03c",
+            "ForestDigital": "camo_03d",
+            "MarshDigital": "camo_03e",
+            "BarkDigital": "camo_03f",
+            "BlueDigital": "camo_03g",
+            "ClassicDigital": "camo_03h",
+            "DesertDigital": "camo_03i",
+            "GreenDigital": "camo_03j"
+        },
+        "DRAGON": {
+            "H20": "camo_04a",
+            "Dirt": "camo_04b",
+            "Moss": "camo_04c",
+            "Tagged": "camo_04d",
+            "BlackTop": "camo_04e",
+            "Asphalt": "camo_04f",
+            "CrimeScene": "camo_04g",
+            "NeonPink": "camo_04h",
+            "TrailBlazer": "camo_04i",
+            "Foliage": "camo_04j"
+        },
+        "SPLINTER": {
+            "Tundra": "camo_05a",
+            "Undergrowth": "camo_05b",
+            "Frostbite": "camo_05c",
+            "IceBreaker": "camo_05d",
+            "Ruins": "camo_05e",
+            "ArcticSeafoam": "camo_05f",
+            "Angeles": "camo_05g",
+            "AutumnDazzle": "camo_05h",
+            "ArcticAbstract": "camo_05i",
+            "SharpEdges": "camo_05j"
+        },
+        "TOPO": {
+            "Off-grid": "camo_06a",
+            "NightSeas": "camo_06b",
+            "MarshOps": "camo_06c",
+            "Forestation": "camo_06d",
+            "Phosphor": "camo_06e",
+            "VectorTrails": "camo_06f",
+            "TopoTrip": "camo_06g",
+            "Barren": "camo_06h",
+            "Vanished": "camo_06i",
+            "Sandstorm": "camo_06j"
+        },
+        "TIGER": {
+            "Overgrown": "camo_07a",
+            "Mudslide": "camo_07b",
+            "DankForest": "camo_07c",
+            "Abominable": "camo_07d",
+            "FadedVeil": "camo_07e",
+            "FeralBeast": "camo_07f",
+            "TigerStripes": "camo_07g",
+            "DesertCat": "camo_07h",
+            "RedTiger": "camo_07i",
+            "BlueTiger": "camo_07j"
+        },
+        "STRIPES": {
+            "Grassland": "camo_08a",
+            "TigersMane": "camo_08b",
+            "TheKhan": "camo_08c",
+            "Savannah": "camo_08d",
+            "Zebra": "camo_08e",
+            "BlueGrass": "camo_08f",
+            "Africa": "camo_08g",
+            "NuWaveZebra": "camo_08h",
+            "GreenGrass": "camo_08i",
+            "PinkZebra": "camo_08j"
+        },
+        "REPTILE": {
+            "Python": "camo_09a",
+            "Rattlesnake": "camo_09b",
+            "Komodo": "camo_09c",
+            "BlueIguana": "camo_09d",
+            "Chupacabra": "camo_09e",
+            "PinkPython": "camo_09f",
+            "Anaconda": "camo_09g",
+            "Bullsnake": "camo_09h",
+            "Gecko": "camo_09i",
+            "Gartersnake": "camo_09j"
+        },
+        "SKULLS": {
+            "Necropolis": "camo_10a",
+            "CorpseDigger": "camo_10b",
+            "Ossuary": "camo_10c",
+            "Haunting": "camo_10d",
+            "Phantom": "camo_10e",
+            "ForestWraith": "camo_10f",
+            "Hemophiliac": "camo_10g",
+            "Skullduggery": "camo_10h",
+            "Cthulhu": "camo_10i",
+            "Lichyard": "camo_10j"
+        },
+        "COMPLETIONIST": {
+            "Gold": "camo_11a",
+            "Platinum": "camo_11b",
+            "Damascus": "camo_11c",
+            "Obsidian": "camo_11d"
+        },
+        "SPECIAL": {
+            "Hot&Cold": "camo_00a",
+            "Activcamo": "camo_00b",
+            "Banded": "camo_00c",
+            "AtlantaFaze": "camo_12a",
+            "ChicagoHuntsmen": "camo_12b",
+            "DallasEmpire": "camo_12c",
+            "FloridaMutineers": "camo_12d",
+            "LAGuerrillas": "camo_12e",
+            "LondonRoyalRavens": "camo_12f",
+            "MinnesotaRokkr": "camo_12g",
+            "NewYorkSubliners": "camo_12h",
+            "OpticGaming": "camo_12i",
+            "ParisLegion": "camo_12j",
+            "SeattleSurge": "camo_12k",
+            "TorontoUltra": "camo_12l"
+        }
+    },
+    "RETICLES_LIST": {
+        "ACOG": {
+            "CrossDot": "ret14",
+            "AngleEye": "ret15",
+            "TPose": "ret16",
+            "DoubleCross": "ret17",
+            "GreenCross": "ret18",
+            "RedEye": "ret21",
+            "BlueV": "ret22"
+        },
+        "HOLO": {
+            "DownwardCurve": "ret01",
+            "Witch": "ret07",
+            "Islet": "ret11",
+            "Summoner": "ret12",
+            "Orbit": "ret13",
+            "CloseQuarters": "ret23",
+            "Sunrise": "ret25",
+            "EvilEye": "ret26",
+            "BlueDot": "ret47",
+            "Reverence": "ret49"
+        },
+        "REFLEX": {
+            "Carrot": "ret02",
+            "SunSpot": "ret03",
+            "AddPoint": "ret04",
+            "GoldenBell": "ret05",
+            "StandardFare": "ret06",
+            "PerfectBalance": "ret08",
+            "Division": "ret09",
+            "Flare": "ret10",
+            "GreenV": "ret24",
+            "BlueDot": "ret46",
+            "Reverence": "ret48"
+        },
+        "THERMAL": {
+            "Weave": "ret19",
+            "DropPad": "ret20",
+            "Cerberus": "ret27",
+            "ZipPad": "ret28",
+            "WrightSight": "ret29",
+            "OpticalIllusion": "ret30",
+            "BeastsOfPrey": "ret31"
+        },
+        "HYBRID THERMAL": {
+            "DarkHorizon": "ret39",
+            "StealthBomber": "ret40",
+            "Spectre": "ret41",
+            "Tracker": "ret42",
+            "Quadrants": "ret43",
+            "All-seeing": "ret44",
+            "Pearl": "ret45"
+        },
+        "SNIPER": {
+            "Crossthread": "retsnpr01",
+            "Pinpoint": "retsnpr02",
+            "OneBreath": "retsnpr03",
+            "Hangman": "retsnpr04",
+            "DropAngle": "retsnpr05",
+            "CirclePit": "retsnpr06",
+            "CoverShot": "retsnpr07",
+            "TopNotch": "retsnpr08",
+            "Marksman": "retsnpr09",
+            "GridLine": "retsnpr10",
+            "Critical": "retsnpr11"
+        }
+    },
+    "PERKS_LIST": {
+        "SLOT 0": {
+            "DoubleTime": "specialty_hustle",
+            "E.O.D.": "specialty_eod",
+            "Scavenger": "specialty_scavenger_plus",
+            "Cold-Blooded": "specialty_covert_ops",
+            "KillChain": "specialty_heavy_metal",
+            "QuickFix": "specialty_quick_fix"
+        },
+        "SLOT 1": {
+            "Restock": "specialty_restock",
+            "Hardline": "specialty_hardline",
+            "Overkill": "specialty_munitions_2",
+            "HighAlert": "specialty_surveillance",
+            "Ghost": "specialty_guerrilla",
+            "Pointman": "specialty_strategist"
+        },
+        "SLOT 2": {
+            "TuneUp": "specialty_tune_up",
+            "Amped": "specialty_warhead",
+            "Shrapnel": "specialty_extra_shrapnel",
+            "BattleHardened": "specialty_tac_resist",
+            "Spotter": "specialty_tactical_recon",
+            "Tracker": "specialty_huntmaster"
+        }
+    },
+    "LETHALS_LIST": {
+        "Claymore": "equip_claymore",
+        "FragGrenade": "equip_frag",
+        "MolotovCocktail": "equip_molotov",
+        "C4": "equip_c4",
+        "Semtex": "equip_semtex",
+        "ThrowingKnife": "equip_throwing_knife",
+        "FlamingKnife": "equip_throwing_knife_fire",
+        "ProximityMine": "equip_at_mine",
+        "Thermite": "equip_thermite"
+    },
+    "TACTICALS_LIST": {
+        "FlashGrenade": "equip_flash",
+        "StunGrenade": "equip_concussion",
+        "SmokeGrenade": "equip_smoke",
+        "SnapshotGrenade": "equip_snapshot_grenade",
+        "HeartbeatSensor": "equip_hb_sensor",
+        "Stim": "equip_adrenaline",
+        "DecoyGrenade": "equip_decoy",
+        "GasGrenade": "equip_gas_grenade"
+    },
+    "STICKERS": {
+        "DeepWounds": "sticker_239",
+        "BloodyKnocks": "sticker_231",
+        "CrownOfRounds": "sticker_215",
+        "Ouroboros": "sticker_243",
+        "ShotCollar": "sticker_249",
+        "SpiritOTSpring": "sticker_181",
+        "AlwaysFresh": "sticker_171",
+        "AncientGuardian": "sticker_183",
+        "BluntSilkWrap": "sticker_094",
+        "DeadlyCompound": "sticker_217",
+        "DeathOn2Wheels": "sticker_259",
+        "FruitPunch": "sticker_216",
+        "Gladiator": "sticker_227",
+        "HeadCase": "sticker_222",
+        "HeatSeeker": "sticker_194",
+        "HeavyRain": "sticker_213",
+        "HotBlooded": "sticker_247",
+        "HotStuff": "sticker_173",
+        "LoveHurts": "sticker_254",
+        "NaturePrevails": "sticker_170",
+        "NewFrontiers": "sticker_258",
+        "PierceTheSky": "sticker_180",
+        "SeabedHead": "sticker_248",
+        "Sgt.Shark": "sticker_219",
+        "SunScorpion": "sticker_236",
+        "AngrySergeant": "sticker_237",
+        "CyclicalSawtooth": "sticker_145",
+        "DesertFox": "sticker_221",
+        "FirstMate": "sticker_204",
+        "Frothed": "sticker_205",
+        "Regality": "sticker_206",
+        "Croaked": "sticker_035",
+        "GoldenSilence": "sticker_175",
+        "Heartfelt": "sticker_211",
+        "IslandBeauty": "sticker_044",
+        "LuckyCharm": "sticker_246",
+        "Luscious": "sticker_212",
+        "Omnivore": "sticker_132",
+        "Pharaoh": "sticker_178",
+        "Tempest": "sticker_203",
+        "BarelyGlowing": "sticker_095",
+        "Bolted": "sticker_151",
+        "CagedVoltage": "sticker_201",
+        "FleshEater": "sticker_174",
+        "FreeToRoam": "sticker_210",
+        "InTents": "sticker_209",
+        "It'sLit": "sticker_208",
+        "Luchador": "sticker_034",
+        "ManyMasters": "sticker_200",
+        "MincingMeat": "sticker_184",
+        "MincingMeat2": "sticker_185",
+        "Reaped": "sticker_193",
+        "SwampKing": "sticker_220",
+        "WreckingBall": "sticker_202",
+        "3Trys": "sticker_142",
+        "ActionReaction": "sticker_139",
+        "BlindSide": "sticker_198",
+        "Ceremony": "sticker_199",
+        "Firmament": "sticker_148",
+        "HeartOfDarkness": "sticker_134",
+        "Rupture": "sticker_138",
+        "SandsOfTime": "sticker_147",
+        "Star": "sticker_146",
+        "Tessellation": "sticker_150",
+        "Warped": "sticker_141",
+        "Wedged": "sticker_143",
+        "ThePrideOfTheLions": "sticker_207",
+        "ACavalierAttitude": "sticker_032",
+        "AssertiveOctopod": "sticker_055",
+        "CaptainSanders": "sticker_047",
+        "Grunt'sLastGrasp": "sticker_024",
+        "King": "sticker_020",
+        "MetalHawk": "sticker_108",
+        "PoisonArrow": "sticker_054",
+        "SavageChampion": "sticker_049",
+        "SpiritDefender": "sticker_045",
+        "StillSmiling": "sticker_050",
+        "FaceOfSpades": "sticker_041",
+        "Tusker": "sticker_060",
+        "WarDog": "sticker_005",
+        "AzureProtector": "sticker_056",
+        "BiteYourTongue": "sticker_052",
+        "Clairvoyant": "sticker_023",
+        "Cleaved": "sticker_019",
+        "DarkClaw": "sticker_061",
+        "Engulfed": "sticker_097",
+        "GoldRat": "sticker_187",
+        "Mauler": "sticker_059",
+        "MementoMori": "sticker_026",
+        "Prey": "sticker_065",
+        "RulerOfGods": "sticker_104",
+        "SpreadEagle": "sticker_002",
+        "Tentacles": "sticker_062",
+        "ApexPredator": "sticker_083",
+        "AtlantaFaze": "sticker_153",
+        "BedrockabillyRed": "sticker_022",
+        "Bombshell": "sticker_067",
+        "BurgeoningCranium": "sticker_080",
+        "ChevronColliding": "sticker_144",
+        "ChicagoHuntsmen": "sticker_196",
+        "Cranium": "sticker_135",
+        "Crossbones": "sticker_136",
+        "DallasEmpire": "sticker_195",
+        "DeadOfNight": "sticker_121",
+        "DesertDOA": "sticker_129",
+        "DevilWoman": "sticker_085",
+        "DoWhatever": "sticker_105",
+        "Endangerous": "sticker_090",
+        "Fabulous": "sticker_096",
+        "Goliath": "?",
+        "FertileFruit": "sticker_093",
+        "FlashBang": "sticker_152",
+        "FloridaMutineers": "sticker_154",
+        "FowlSymbol": "sticker_089",
+        "FrostBurn": "sticker_176",
+        "HeartlandPride": "sticker_036",
+        "HotHeaded": "sticker_165",
+        "InTheRough": "sticker_037",
+        "Liberty": "sticker_098",
+        "LondonRoyalRavens": "sticker_155",
+        "LosAngelesGuerrillas": "sticker_156",
+        "MinnesotaRokkr": "sticker_157",
+        "MorsMihiLucrum": "sticker_028",
+        "Motherland": "sticker_109",
+        "NewYorkSubliners": "sticker_158",
+        "OnlyALilDead": "sticker_025",
+        "OpticGamingLosAngeles": "sticker_159",
+        "OpenSwim": "sticker_064",
+        "OrangeThreat": "sticker_119",
+        "ParisLegion": "sticker_160",
+        "Peckish": "sticker_051",
+        "SeattleSurge": "sticker_197",
+        "SeeingCobalt": "sticker_128",
+        "SeeingScarlet": "sticker_122",
+        "SinisterStare": "sticker_130",
+        "Snakebite": "sticker_167",
+        "Striker": "sticker_033",
+        "Succubus": "sticker_057",
+        "TanDiagonal": "sticker_110",
+        "TorontoUltra": "sticker_161",
+        "TrashPanda": "sticker_068",
+        "TryAndFail": "sticker_120",
+        "TryHarder": "sticker_043",
+        "UndeniableOceanKing": "sticker_091",
+        "Articulation": "sticker_137",
+        "Broken": "sticker_164",
+        "Checkmate": "sticker_166",
+        "Designation": "sticker_149",
+        "Fetch": "sticker_168",
+        "Implode": "sticker_133",
+        "LittleBarker": "sticker_103",
+        "PoisonHead": "sticker_169",
+        "Visionary": "sticker_076",
+        "EquitableChampion": "sticker_102",
+        "Jokester": "sticker_040",
+        "PumaPride": "sticker_003",
+        "RemarkableMarksman": "sticker_099",
+        "Shogun": "sticker_106",
+        "BearDown": "sticker_053",
+        "DeathKnell": "sticker_042",
+        "EternalDeath'sHead": "sticker_027",
+        "FirstBlush": "sticker_038",
+        "GuardianKing": "sticker_046",
+        "MurderingMollusk": "sticker_048",
+        "PickYourPoison": "sticker_107",
+        "PoisonousPosition": "sticker_088",
+        "SavageCat": "sticker_021",
+        "Streamin'Eagle": "sticker_018",
+        "WorkingDirty": "sticker_039",
+        "12PointBuck": "sticker_111",
+        "AllAces": "sticker_086",
+        "BringYourAGame": "sticker_008",
+        "CorporalPunishment": "sticker_007",
+        "DiastemaDemon": "sticker_029",
+        "Endowment": "sticker_006",
+        "FullBloom": "sticker_101",
+        "GuerrillaGorilla": "sticker_087",
+        "HoloSkull": "sticker_118",
+        "HotHead": "sticker_030",
+        "LapelPin": "sticker_081",
+        "LoyalLad": "sticker_100",
+        "NotForgotten": "sticker_084",
+        "OrbitalIntel": "sticker_009",
+        "ReadyForWar": "sticker_058",
+        "SpartanYouth": "sticker_063",
+        "VenemousSpite": "sticker_066",
+        "Assemblage": "sticker_140",
+        "Beenox": "sticker_069",
+        "Elite3D": "sticker_070",
+        "Glassegg": "sticker_071",
+        "HighMoon": "sticker_072",
+        "InfinityWard": "sticker_073",
+        "MedicineMan": "?",
+        "NoRules": "sticker_004",
+        "Raven": "sticker_074",
+        "RedHot": "sticker_075",
+        "Studio727": "sticker_077",
+        "Trace": "sticker_078",
+        "FearNoDeath": "sticker_092",
+        "NoWhereSafe": "sticker_082"
+    },
+    "OPERATOR_SKINS": {
+        "REFERENCE OPERATOR & SKIN LIST - COALITION": {
+            "MIL-SIM: default_western": {
+                "SKINS": {
+                    "Default": "274",
+                    "Pararescue1": "816",
+                    "Pararescue2": "817",
+                    "Pararescue3": "818",
+                    "CTFSO1": "819",
+                    "CTFSO2": "820",
+                    "CTFSO3": "821",
+                    "SKSF1": "826",
+                    "SKSF2": "827",
+                    "SKSF3": "828",
+                    "USEF1": "829",
+                    "USEF2": "830",
+                    "USEF3": "831",
+                    "Frogman": "810"
+                }
+            },
+            "GHOST: ghost_western": {
+                "SKINS": {
+                    "Jawbone": "136",
+                    "Mandible": "137",
+                    "LastBreath": "138",
+                    "Ghosted": "139",
+                    "DarkVision": "140",
+                    "Reckoner": "141",
+                    "Frogman": "801",
+                    "Classic": "804"
+                }
+            },
+            "THORNE: murphy_western": {
+                "SKINS": {
+                    "Deployment": "19",
+                    "DesertRat": "20",
+                    "Seafarer": "21",
+                    "Marshland": "22",
+                    "GreyWolf": "23",
+                    "NightRaid": "24",
+                    "Security": "25",
+                    "LaMuerte": "26",
+                    "Solstice": "294",
+                    "SAS": "770",
+                    "InkedInfil": "27",
+                    "Ripcord": "791",
+                    "Valor": "798",
+                    "Vigilance": "799",
+                    "MightyArse": "800"
+                }
+            },
+            "CHARLY: charly_western": {
+                "SKINS": {
+                    "Patrol": "37",
+                    "Warden": "38",
+                    "Scout": "39",
+                    "Clouded": "41",
+                    "Tundra": "42",
+                    "Grassroots": "43",
+                    "CarbonAsh": "44",
+                    "SAS": "771",
+                    "Huntress": "40",
+                    "AngelOfD": "45",
+                    "TacticalH": "292",
+                    "Sinister": "808"
+                }
+            },
+            "OTTER: otter_western": {
+                "SKINS": {
+                    "JungleRaid": "88",
+                    "Swampland": "89",
+                    "Woodland": "90",
+                    "Sandstorm": "82",
+                    "Desert": "83",
+                    "SAS": "772",
+                    "Urban": "84",
+                    "CrewExpend": "272",
+                    "IPinchBack": "792",
+                    "Jungle": "85",
+                    "TF141": "86",
+                    "DemoExpert": "87",
+                    "SnowDrift": "848",
+                    "Irradiated": "795"
+                }
+            },
+            "D-DAY: dday_western": {
+                "SKINS": {
+                    "OpenSeason": "28",
+                    "SageBrush": "29",
+                    "Fall": "30",
+                    "ArcticOps": "31",
+                    "Nightmare": "32",
+                    "Buckshot": "33",
+                    "ClippedIn": "756",
+                    "DeepPockets": "757",
+                    "Nightshift": "758",
+                    "DemonDogs": "773",
+                    "QuickDraw": "823",
+                    "Tailgate": "34",
+                    "TrueVictory": "286",
+                    "CamoCroc": "35",
+                    "Scarecrow": "36",
+                    "Bushranger": "293",
+                    "LoneStar": "824",
+                    "BorderWar": "825"
+                }
+            },
+            "ALICE: alice_western": {
+                "SKINS": {
+                    "Tactical": "46",
+                    "Maplewood": "47",
+                    "Mechanic": "48",
+                    "Muddin": "49",
+                    "SmartTactical": "51",
+                    "GreyMatter": "52",
+                    "DownRange": "53",
+                    "StreetSmart": "54",
+                    "DemonDogs": "774",
+                    "BossLady": "50",
+                    "Rime": "786"
+                }
+            },
+            "RAINES: raines_western": {
+                "SKINS": {
+                    "Raider": "276",
+                    "StuntDouble": "277",
+                    "Touchdown": "278",
+                    "Mariner": "279",
+                    "RoadRage": "281",
+                    "BuffaloHunter": "282",
+                    "DarkPacifier": "283",
+                    "Evergreen": "284",
+                    "DemonDogs": "775",
+                    "Outback": "280",
+                    "Tactical": "764",
+                    "Bunyan": "850"
+                }
+            },
+            "TALON: crowfoot_western": {
+                "SKINS": {
+                    "Skin2": "728",
+                    "Skin3": "729",
+                    "Tracker": "730",
+                    "GoodMedicine": "731",
+                    "ColdCreek": "732",
+                    "Scarecrow": "727"
+                }
+            },
+            "DOMINO: domino_western": {
+                "SKINS": {
+                    "Commando": "73",
+                    "ColdTimber": "74",
+                    "Jungle": "75",
+                    "Wetworks": "76",
+                    "GreenMamba": "77",
+                    "UrbanAssault": "78",
+                    "Hardened": "80",
+                    "BattleReady": "81",
+                    "WarcomDomino": "778",
+                    "DesertOps": "79",
+                    "707thSMB": "287",
+                    "SecurityDetail": "768",
+                    "SpyGames": "805"
+                }
+            },
+            "GOLEM: golem_western": {
+                "SKINS": {
+                    "JungleTerror": "124",
+                    "NightRaid": "125",
+                    "CounterTerror": "126",
+                    "WinterWarrior": "122",
+                    "SpectralAss": "123",
+                    "Black&Blue": "755",
+                    "Minimalist": "766",
+                    "Stuntman": "767",
+                    "WarcomGolem": "779",
+                    "SwampFever": "118",
+                    "Foliage": "119",
+                    "IceCold": "120",
+                    "WinterWarrior2": "121",
+                    "JunkPile": "289",
+                    "BlackForest": "849"
+                }
+            },
+            "MARA: zedra_western": {
+                "SKINS": {
+                    "DeathDealer": "115",
+                    "ChemDivision": "109",
+                    "DesertWork": "110",
+                    "GreenDust": "111",
+                    "ForestOps": "112",
+                    "DigitalDark": "113",
+                    "DuneHunter": "114",
+                    "Quick-witted": "116",
+                    "Valkyrie": "117"
+                }
+            },
+            "WYATT: wyatt_western": {
+                "SKINS": {
+                    "RaidGear": "4",
+                    "Remnant": "5",
+                    "Sprinter": "6",
+                    "UrbanHip": "1",
+                    "Digital": "2",
+                    "Warcom": "780",
+                    "GoingGray": "3",
+                    "Run&Gun": "7",
+                    "Desperado": "8",
+                    "Commander": "9",
+                    "WarPig": "271",
+                    "Outback": "802",
+                    "TheWoodsman": "803",
+                    "TheBagger": "809"
+                }
+            },
+            "RONIN: ronin_western": {
+                "SKINS": {
+                    "LoneDragon": "793"
+                }
+            },
+            "ALEX: alex_western": {
+                "SKINS": {
+                    "Indomitable": "794",
+                    "LuckyStreak": "797",
+                    "BackForMore": "832",
+                    "HardWired": "833",
+                    "Eliminator": "834",
+                    "Automation": "835"
+                }
+            },
+            "LYNCH: lynch_western": {
+                "SKINS": {
+                    "Raider": "145-153"
+                }
+            }
+        },
+        "REFERENCE OPERATOR & SKIN LIST - ALLEGIANCE": {
+            "MIL-SIM: default_eastern": {
+                "SKINS": {
+                    "Default": "275"
+                }
+            },
+            "MINOTAUR: minotavr_eastern": {
+                "SKINS": {
+                    "FullyLoaded": "262",
+                    "SunsOut": "263",
+                    "BeachDay": "264",
+                    "ArmoredUp": "265",
+                    "Tactical": "266",
+                    "Commando": "267",
+                    "AllBusiness": "748",
+                    "Spetsnaz": "781",
+                    "Smoke": "268",
+                    "SmokingOnTheJob": "269",
+                    "GunsOut": "270",
+                    "Hidden": "739",
+                    "Scales": "749",
+                    "SquadLeader": "750",
+                    "Valentaur": "769"
+                }
+            },
+            "BALE: bale_eastern": {
+                "SKINS": {
+                    "Spetz": "64",
+                    "Riot": "65",
+                    "TwilightP": "66",
+                    "UrbanCasualty": "67",
+                    "Bleached": "68",
+                    "Sokoly": "70",
+                    "TaskForce": "71",
+                    "Brawler": "72",
+                    "SnowForce": "291",
+                    "Spetsnaz": "776",
+                    "AgentOrange": "69",
+                    "Darkness": "807",
+                    "Protectorate": "847",
+                    "StoneFaced": "290"
+                }
+            },
+            "RODION: rodion_eastern": {
+                "SKINS": {
+                    "HollywoodH": "178",
+                    "Gungho": "179",
+                    "NightRaid": "180",
+                    "Recon": "172",
+                    "WinterWear": "173",
+                    "HeavyDuty": "174",
+                    "CasualFriday": "745",
+                    "ShortSummers": "746",
+                    "BurgerTown": "747",
+                    "Spetsnaz": "777",
+                    "Incognito": "175",
+                    "Infiltration": "176",
+                    "Seaweed": "177",
+                    "DeepSnow": "744"
+                }
+            },
+            "NIKTO: spetsnaz_eastern": {
+                "SKINS": {
+                    "Fixer": "10-18"
+                }
+            },
+            "MACE: metalghost_eastern": {
+                "SKINS": {
+                    "MetalPhantom": "733, 735-738",
+                    "Tombstone": "734"
+                }
+            },
+            "AZUR: azur_eastern": {
+                "SKINS": {
+                    "Smoked": "235",
+                    "GreyedOut": "236",
+                    "UrbanAssault": "237",
+                    "Security": "238",
+                    "Sheik": "239",
+                    "Nightshade": "240",
+                    "DesertBandit": "241",
+                    "SunBleached": "242",
+                    "DuneBreaker": "741",
+                    "Jackals": "784",
+                    "ArmsDealer": "243",
+                    "Brawler": "740",
+                    "RedReptile": "742",
+                    "GreyMatter": "743",
+                    "BrothersKeeper": "822"
+                }
+            },
+            "GRINCH: grinch_eastern": {
+                "SKINS": {
+                    "WarFace": "193",
+                    "Wayward": "194",
+                    "Feral": "195",
+                    "JackalsGrinch": "782",
+                    "Overgrowth": "196",
+                    "Webfoot": "197",
+                    "Armadillo": "198",
+                    "Bog": "190",
+                    "MuddyWaters": "191",
+                    "AllGhilliedUp": "273",
+                    "BloodInTheWater": "192",
+                    "Nightfang": "785"
+                }
+            },
+            "ZANE: zane_eastern": {
+                "SKINS": {
+                    "Crusade": "253",
+                    "Shades": "254",
+                    "FatherTreason": "255",
+                    "ZebraPrint": "256",
+                    "Glitch": "257",
+                    "Vigilante": "259",
+                    "Gbosa Green": "260",
+                    "GreyedOut": "760",
+                    "Polarized": "759",
+                    "Striker": "761",
+                    "Jackals": "783",
+                    "PepperDonRed": "258",
+                    "MonsoonSeason": "261",
+                    "Militant": "762",
+                    "HoneyBadger": "851"
+                }
+            },
+            "YEGOR: yegor_eastern": {
+                "SKINS": {
+                    "Cerulean": "208 / 751",
+                    "Emerald": "209",
+                    "Ruby": "210",
+                    "OutOfTown": "212",
+                    "SundayBest": "213",
+                    "Athleisure": "752",
+                    "SuperStar": "753",
+                    "BlackDrab": "754",
+                    "Chimera": "789",
+                    "TrackStar": "xxx",
+                    "NightLife": "211",
+                    "FishBowl": "214",
+                    "ChilledOut": "215",
+                    "CoolBlue": "216",
+                    "Commuter": "217",
+                    "Drawstring": "787",
+                    "HardLabor": "806",
+                    "ThiefInLaw": "845",
+                    "ServiceRecord": "846"
+                }
+            },
+            "KREUGER: kreuger_eastern": {
+                "SKINS": {
+                    "Phantom": "217",
+                    "Shrouded": "218",
+                    "SilentSigma": "219",
+                    "Bandit": "220",
+                    "Plague": "221",
+                    "MarshDemon": "285",
+                    "Chimera": "790",
+                    "Reaper": "222",
+                    "Chemist": "223",
+                    "Hazmat": "224",
+                    "ChemicalWarfare": "225",
+                    "Waster": "765",
+                    "Firestarter": "796"
+                }
+            },
+            "SYD: syd_eastern": {
+                "SKINS": {
+                    "Mantis": "55",
+                    "Embedded": "56",
+                    "Judge": "57",
+                    "Mariner": "58",
+                    "Sahara": "59",
+                    "Bluejacket": "60",
+                    "Chimera": "788",
+                    "Thunderbird": "61",
+                    "WoodlandCover": "62",
+                    "Wetfoot": "63",
+                    "Marathon": "763"
+                }
+            },
+            "ISKRA: iskra_eastern": {
+                "SKINS": {
+                    "Saboteur": "199"
+                }
+            }
+        }
+    },
+    "FINISHING MOVES": {
+        "Bag'Em": 107,
+        "ChipShot": 105,
+        "CrickInTheNeck": 104,
+        "FangsOut": 102,
+        "Gutted": 93,
+        "HelloStranger": 97,
+        "Low Rise": 92,
+        "Perforate": 94,
+        "SpinCycle": 98,
+        "ThreeStrikes": 91,
+        "TopDog": 95,
+        "UV09": 99,
+        "UV10(BushLeague)": 100,
+        "UV11(Karambit2)": 101,
+        "UV13(Payback)": 103,
+        "UV16(Bag'Em2)": 106,
+        "WatchThis": 96
+    }
+}

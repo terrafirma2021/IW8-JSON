@@ -1,0 +1,21 @@
+{
+    "FINISHING MOVES": {
+        "Bag'Em": 107,
+        "ChipShot": 105,
+        "CrickInTheNeck": 104,
+        "FangsOut": 102,
+        "Gutted": 93,
+        "HelloStranger": 97,
+        "Low Rise": 92,
+        "Perforate": 94,
+        "SpinCycle": 98,
+        "ThreeStrikes": 91,
+        "TopDog": 95,
+        "UV09": 99,
+        "UV10(BushLeague)": 100,
+        "UV11(Karambit2)": 101,
+        "UV13(Payback)": 103,
+        "UV16(Bag'Em2)": 106,
+        "WatchThis": 96
+    }
+}

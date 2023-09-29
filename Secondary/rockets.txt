@@ -1,0 +1,13 @@
+{
+    "SECONDARY_WEAPONS": {
+        "LAUNCHERS": {
+            "PILA": "iw8_la_gromeo",
+            "Strela-P(CarlG)": "iw8_la_kgolf",
+            "JOKR(Javelin)": "iw8_la_juliet",
+            "RPG-7": "iw8_la_rpapa7"
+        },
+        "MELEE": {
+            "CombatKnife": "iw8_knife"
+        }
+    }
+}

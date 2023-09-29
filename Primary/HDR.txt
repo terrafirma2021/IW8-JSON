@@ -1,0 +1,61 @@
+{
+    "PRIMARY_WEAPONS": {
+        "SNIPER RIFLES": {
+            "AX-50": {
+                "Code": "iw8_sn_alpha50",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "BREACHER DEVICE": "melee",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic (Sight)": {
+                        "SniperScope": "scope",
+                        "VariableZoom": "vzscope",
+                        "Brownlee32mm": "scope",
+                        "PUScope": "scope"
+                    },
+                    "Stock": {
+                        "NoStock": "stockno",
+                        "FtackSport": "stockcust"
+                    },
+                    "Underbarrel": {
+                        "CommandoForegrip": "gripang",
+                        "MercForegrip": "gripvert",
+                        "TacticalForegrip": "gripangpro"
+                    },
+                    "Ammunition": {
+                        "7RoundMags": "mags",
+                        "9RoundMags": "mags"
+                    },
+                    "RearGrip": {
+                        "Granulated": "pistolgrip01",
+                        "Stippled": "pistolgrip02",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "Focus": "focus",
+                        "Breacher Device": "melee",
+                        "Heavy Hitter": "gunperk_hardmelee",
+                        "Sleight of Hand": "fastreload",
+                        "Fully Loaded": "maxammo",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "FMJ": "fmj",
+                        "Frangible - Wounding": "ammomod_wound",
+                        "Frangible - Disabling": "ammomod_slow"
+                    }
+                }
+            }
+        }
+    }
+}

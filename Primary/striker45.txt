@@ -1,0 +1,71 @@
+{
+    "PRIMARY_WEAPONS": {
+        "SMGS": {
+            "Striker45": {
+                "Code": "iw8_sm_smgolf45",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "300mm": "barmid",
+                        "400mm": "barlong",
+                        "150mm": "barshort"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "Guardian": "stockl",
+                        "PrecisionFixed": "stockh",
+                        "Gen3Survivalist": "stocks"
+                    },
+                    "Underbarrel": {
+                        "12-GaugeDeputy": "ubshtgn",
+                        "Recon": "glsnap",
+                        "HighExplosive": "gl",
+                        "Flash": "glflash",
+                        "Smokescreen": "glsmoke",
+                        "Concussive": "glconc",
+                        "Incendiary": "glincendiary"
+                    },
+                    "Ammunition": {
+                        "HollowPoint": "smags",
+                        "45Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Polymer": "pistolgrip01",
+                        "EXO": "pistolgrip02",
+                        "Rubber": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        }
+    }
+}

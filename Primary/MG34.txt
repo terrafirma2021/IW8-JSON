@@ -1,0 +1,66 @@
+{
+    "PRIMARY_WEAPONS": {
+        "LMGS": {
+            "MG34": {
+                "Code": "iw8_lm_mgolf34",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "18.2\"": "barshort",
+                        "26.9\"": "barmid",
+                        "25.9\"": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "NoStock": "stockno",
+                        "FtackSport": "stockcust"
+                    },
+                    "Underbarrel": {
+                        "CommandoForegrip": "gripang",
+                        "MercForegrip": "gripvert",
+                        "TacticalForegrip": "gripangpro"
+                    },
+                    "Ammunition": {
+                        "75Rnd": "xmags",
+                        "100Rnd": "drums"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        }
+    }
+}

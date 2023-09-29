@@ -1,0 +1,67 @@
+{
+    "PRIMARY_WEAPONS": {
+        "LMGS": {
+            "SA87": {
+                "Code": "iw8_lm_lima86",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Barrel": {
+                        "18.2\"": "barmid",
+                        "25.4\"": "barlong",
+                        "12.4\"": "barshort"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "ScoutCombatOptic": "acog",
+                        "VLK3.0x": "acog2",
+                        "CronenC480": "acog3",
+                        "K498Integral": "acog4",
+                        "Integral3.0x": "scopenorail",
+                        "Cronen2x2Elite": "acog3"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh",
+                        "CloseQuarters": "stocks"
+                    },
+                    "Underbarrel": {
+                        "RangerForegrip": "gripcust",
+                        "OperatorForegrip": "gripvertpro"
+                    },
+                    "Ammunition": {
+                        "50Rnd": "xmags",
+                        "60Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        }
+    }
+}

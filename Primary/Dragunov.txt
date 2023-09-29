@@ -1,0 +1,58 @@
+{
+    "PRIMARY_WEAPONS": {
+        "SNIPER RIFLES": {
+            "Dragunov": {
+                "Code": "iw8_sn_delta",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Breacher": "melee / melee2"
+                    },
+                    "Barrel": {
+                        "510mm": "barshort",
+                        "660mm": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl",
+                        "SniperPro": "stockh"
+                    },
+                    "Underbarrel": {
+                        "Bipod": "bipod",
+                        "RangerForegrip": "gripcust"
+                    },
+                    "Ammunition": {
+                        "25Rnd": "xmags"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "SECONDARY_WEAPONS": {
+        ".357 Magnum": {
+            "Code": "iw8_pi_cpapa",
+            "Attachments": {
+                "Muzzle": {
+                    "Flash Guard": "flashguard",
+                    "Muzzle Brake": "muzzlebrake",
+                    "Compensator": "compensator"
+                },
+                "Barrel": {
+                    ".357 Snub Nose": "snubnose",
+                    "Silverfield Ordnance .357": "silverfield",
+                    ".357 Long": "long"
+                },
+                "Laser": {
+                    "1mW Laser": "1mw",
+                    "5mW Laser": "5mw",
+                    "Tac Laser": "taclaser"
+                },
+                "Optic": {
+                    "Operator Reflex Sight": "operator",
+                    "Aim-Op Reflex Sight": "aimop",
+                    "Corp Combat Holo Sight": "holo",
+                    "G.I. Mini Reflex": "minireflex",
+                    "Solozero Optics Mini Reflex": "solozero",
+                    "Scout Combat Optic": "scout",
+                    "APX5 Holographic Sight": "apx5",
+                    "Viper Reflex Sight": "viper",
+                    "VLK 3.0x Optic": "vlk30x",
+                    "Cronen LP945 Mini Reflex": "cronenlp945",
+                    "Monocle Reflex Sight": "monocle",
+                    "Cronen C480 Pro Optic": "cronenc480",
+                    "Lockwood Pistol Scope": "lockwood"
+                },
+                "Trigger Action": {
+                    "Lightweight Trigger": "lightweight",
+                    "Heavy Duty Trigger": "heavyduty",
+                    "Match Grade Trigger": "matchgrade"
+                },
+                "Magazine": {
+                    "Snake Shot": "snakeshot"
+                },
+                "Perk": {
+                    "Fast Melee": "gunperk_fastmelee",
+                    "Frangible - Disabling": "ammomod_slow",
+                    "Fully Loaded": "maxammo",
+                    "Sleight of Hand": "fastreload",
+                    "Frangible - Wounding": "ammomod_wound",
+                    "Mo' Money": "gunperk_xp",
+                    "Recon": "gunperk_marksman",
+                    "Heavy Hitter": "gunperk_hardmelee",
+                    "FMJ": "fmj"
+                }
+            }
+        }
+    }
+}

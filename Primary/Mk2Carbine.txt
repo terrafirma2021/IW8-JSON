@@ -1,0 +1,61 @@
+{
+    "PRIMARY_WEAPONS": {
+        "MARKSMAN RIFLES": {
+            "MK2Carbine": {
+                "Code": "iw8_sn_sbeta",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "BreachDevice": "melee",
+                        "Tactical": "silencer",
+                        "MuzzleBrake": "brake",
+                        "Lightweight": "silencer2",
+                        "Compensator": "comp",
+                        "Monolithic": "silencer3"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Reflex": "reflex",
+                        "G.I.Mini": "reflexmini",
+                        "SolozeroMini": "reflexmini2",
+                        "CronenLP945": "reflexmini3",
+                        "RingSight": "scope"
+                    },
+                    "Stock": {
+                        "NoStock": "stockno",
+                        "FtackSport": "stockcust"
+                    },
+                    "Underbarrel": {
+                        "CommandoForegrip": "gripang",
+                        "MercForegrip": "gripvert",
+                        "TacticalForegrip": "gripangpro"
+                    },
+                    "Ammunition": {
+                        "10Rnd": "xmags",
+                        "30Rnd": "xmagslrg"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        }
+    }
+}

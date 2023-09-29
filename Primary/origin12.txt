@@ -1,0 +1,62 @@
+{
+    "PRIMARY_WEAPONS": {
+        "SHOTGUNS": {
+            "Origin12": {
+                "Code": "iw8_sh_oscar12",
+                "Attachments": {
+                    "Muzzle": {
+                        "Choke": "choke"
+                    },
+                    "Barrel": {
+                        "Marauder": "barmid",
+                        "Wideshot": "barshort",
+                        "Impaler": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "laserbalanced",
+                        "1mW": "laser",
+                        "5mW": "laserrange"
+                    },
+                    "Optic": {
+                        "Operator": "reflex",
+                        "Aim-Op": "reflex2",
+                        "Viper": "reflex3",
+                        "Monocle": "reflex4",
+                        "IntegralReflex": "reflex5"
+                    },
+                    "Stock": {
+                        "Precision": "barmid",
+                        "Wideshot": "barshort",
+                        "Impaler": "barlong"
+                    },
+                    "Underbarrel": {
+                        "Guardian": "stockl",
+                        "PrecisionFixed": "stockh",
+                        "Gen3Survivalist": "stocks"
+                    },
+                    "Ammunition": {
+                        "TubeExtension": "xmags",
+                        "SlugRnds": "calcust2",
+                        "Dragon'sBreathRnds": "calcust"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        }
+    }
+}

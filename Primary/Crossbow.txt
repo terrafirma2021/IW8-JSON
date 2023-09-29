@@ -1,0 +1,81 @@
+{
+    "PRIMARY_WEAPONS": {
+        "MARKSMAN RIFLES": {
+            "Crossbow": {
+                "Code": "iw8_sn_crossbow",
+                "Attachments": {
+                    "Optic": {
+                        "MidTrak4.0x": "scope",
+                        "RangemasterVZ": "vzscope",
+                        "Cronen LP945 Mini Reflex": "reflex2",
+                        "Aim-Op Reflex Sight": "reflex3",
+                        "G.I. Mini Reflex": "reflex4",
+                        "Viper Reflex Sight": "reflex5",
+                        "Corp Combat Holo Sight": "holo",
+                        "APX5 Holographic Sight": "holo2",
+                        "PBX Holo 7 Sight": "holo3",
+                        "Scout Combat Optic": "scope2",
+                        "Operator Reflex Sight": "reflex",
+                        "XRK MidTrak 4.0x Scope": "scope4",
+                        "Solozero NVG Enhanced": "scope5",
+                        "VLK 3.0x Optic": "scope6",
+                        "Cronen C480 Pro Optic": "scope7",
+                        "Solozero Optics Mini Reflex": "reflex6",
+                        "Monocle Reflex Sight": "reflex7",
+                        "Merc Thermal Optic": "thermal",
+                        "XRK Rangemaster VZ": "scope8"
+                    },
+                    "Stock": {
+                        "Apex": "stockh",
+                        "DartCB": "stockl",
+                        "SpeedTrak": "stocks"
+                    },
+                    "Bolt": {
+                        "Fury": "bolt2",
+                        "Venom": "bolt3",
+                        "Backburn": "bolt4"
+                    },
+                    "Cable": {
+                        "16-Strand Cable": "uimod_cable16",
+                        "28-Strand Cable": "uimod_cable28"
+                    },
+                    "Arms": {
+                        "Thunder 200 Lb": "uimod_xrk_thunder200",
+                        "Quill 100 Lb": "uimod_xrk_quill100",
+                        "Carbon Elite": "uimod_xrk_carbonelite"
+                    },
+                    "Laser": {
+                        "Tac Laser": "laser"
+                    },
+                    "Stocks": {
+                        "FORGE TAC Apex": "stock1",
+                        "FORGE TAC Dart CB": "stock2",
+                        "FSS SpeedTrak": "stock3"
+                    },
+                    "Pistol Grips": {
+                        "FTAC Speed Grip": "pistolgrip01",
+                        "XRK Precision Grip": "pistolgrip02",
+                        "XRK Talon": "pistolgrip03"
+                    },
+                    "Bolts": {
+                        "FTAC Fury 20\" Bolts": "xbolt",
+                        "FTAC Venom 20\" Bolts": "xbolt2",
+                        "FTAC Backburn 20\" Bolts": "xbolt3"
+                    },
+                    "Gun Perks": {
+                        "Heavy Hitter": "gunperk_hardmelee",
+                        "Sleight of Hand": "fastreload",
+                        "Frangible - Wounding": "ammomod_wound",
+                        "Fully Loaded": "maxammo",
+                        "Presence of Mind": "gunperk_fastfocus",
+                        "Mo' Money": "gunperk_xp",
+                        "Focus": "gunperk_focus",
+                        "Fast Melee": "gunperk_fastmelee",
+                        "Recon": "gunperk_marksman",
+                        "Frangible - Disabling": "ammomod_slow"
+                    }
+                }
+            }
+        }
+    }
+}

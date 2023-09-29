@@ -1,0 +1,65 @@
+{
+    "PRIMARY_WEAPONS": {
+        "ASSAULT_RIFLES": {
+            "RAM-7(Tavor)": {
+                "Code": "iw8_ar_tango21",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "MU001",
+                        "Breacher": "MU002",
+                        "Tactical": "MU003",
+                        "MuzzleBrake": "MU004",
+                        "Lightweight": "MU005",
+                        "Compensator": "MU006",
+                        "Monolithic": "MU007"
+                    },
+                    "Barrel": {
+                        "13.5\"Compact": "barshort",
+                        "Eclipse": "barmid",
+                        "Ranger": "barlong"
+                    },
+                    "Laser": {
+                        "Tac": "LA001",
+                        "1mW": "LA002",
+                        "5mW": "LA003"
+                    },
+                    "Optic": {
+                        "Operator": "OP001",
+                        "Aim-Op": "OP002",
+                        "Viper": "OP003",
+                        "Monocle": "OP004",
+                        "IntegralReflex": "OP005"
+                    },
+                    "Stock": {
+                        "Equilibrium": "stockh"
+                    },
+                    "Underbarrel": {
+                        "13-GaugeCompact": "ub001",
+                        "Cronen": "ub002",
+                        "MercForegrip": "gripvert",
+                        "TacticalForegrip": "gripangpro"
+                    },
+                    "Ammunition": {
+                        "50Rnd": "xmags"
+                    },
+                    "RearGrip": {
+                        "Stippled": "pistolgrip02",
+                        "Granulated": "pistolgrip01",
+                        "Rubberized": "pistolgrip03"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        }
+    }
+}

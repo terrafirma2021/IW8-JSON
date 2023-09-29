@@ -1,0 +1,58 @@
+{
+    "SECONDARY_WEAPONS": {
+        "1911": {
+            "Attachments": {
+                "Muzzle": {
+                    "FlashGuard": "MU001",
+                    "Oil Can Suppressor": "MU002",
+                    "Muzzle Brake": "MU003",
+                    "Tactical Suppressor": "MU004",
+                    "Compensator": "MU005",
+                    "Monolithic Suppressor": "MU006",
+                    "Lightweight Suppressor": "MU007"
+                },
+                "Barrel": {
+                    ".45 Compact": "BA001",
+                    ".45 Match Grade": "BA002",
+                    "1911 Stalker": "BA003"
+                },
+                "Laser": {
+                    "1mW Laser": "LA001",
+                    "5mW Laser": "LA002",
+                    "Tac Laser": "LA003"
+                },
+                "Optic": {
+                    "Cronen LP945 Mini Reflex": "OP001",
+                    "Solozero Optics Mini Reflex": "OP002",
+                    "G.I. Mini Reflex": "OP003"
+                },
+                "Trigger Action": {
+                    "Lightweight Trigger": "TA001",
+                    "Heavy Duty Trigger": "TA002",
+                    "Match Grade Trigger": "TA003"
+                },
+                "Ammunition": {
+                    "10 Round Mags (1911)": "AM001",
+                    "15 Round Mags (1911)": "AM002"
+                },
+                "Rear Grip": {
+                    "Rubberized Grip Tape (Rear Grip)": "RG001",
+                    "Stippled Grip Tape (Rear Grip)": "RG002",
+                    "Granulated Grip Tape (Rear Grip)": "RG003"
+                },
+                "Perk": {
+                    "Fast Melee": "gunperk_fastmelee",
+                    "Frangible - Disabling": "ammomod_slow",
+                    "Recon": "gunperk_marksman",
+                    "Fully Loaded": "maxammo",
+                    "FMJ": "fmj",
+                    "Frangible - Wounding": "ammomod_wound",
+                    "Mo' Money": "gunperk_xp",
+                    "Sleight of Hand": "fastreload",
+                    "Heavy Hitter": "gunperk_hardmelee",
+                    "Akimbo": "akimbo"
+                }
+            }
+        }
+    }
+}

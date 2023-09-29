@@ -1,0 +1,65 @@
+{
+    "PRIMARY_WEAPONS": {
+        "SHOTGUNS": {
+            "R9-0": {
+                "Code": "iw8_sh_dpapa12",
+                "Attachments": {
+                    "Muzzle": {
+                        "FlashGuard": "flashhider",
+                        "Bulldog": "guardheavy",
+                        "Ultralight": "guardlight",
+                        "CloseQuarters": "guardcust"
+                    },
+                    "Barrel": {
+                        "Sentry": "barlong",
+                        "Gemini": "barshort"
+                    },
+                    "Laser": {
+                        "Granulated": "gripvert",
+                        "Stippled": "gripcust",
+                        "Rubberized": "gripvertpro"
+                    },
+                    "Optic": {
+                        "ScoutCombatOptic": "acog",
+                        "VLK3.0x": "acog2",
+                        "CronenC480": "acog3",
+                        "K498Integral": "acog4",
+                        "Integral3.0x": "scopenorail",
+                        "Cronen2x2Elite": "acog3"
+                    },
+                    "Stock": {
+                        "TACUltralight": "stockl"
+                    },
+                    "Underbarrel": {
+                        "CommandoForegrip": "gripang",
+                        "MercForegrip": "gripvert",
+                        "TacticalForegrip": "gripangpro",
+                        "Bulldog": "guardheavy",
+                        "Ultralight": "guardlight",
+                        "CloseQuarters": "guardcust"
+                    },
+                    "Ammunition": {
+                        "TubeExtension": "xmags",
+                        "SlugRnds": "calcust2"
+                    },
+                    "RearGrip": {
+                        "Bulldog": "guardheavy",
+                        "Ultralight": "guardlight",
+                        "CloseQuarters": "guardcust"
+                    },
+                    "Perks": {
+                        "FastMelee": "gunperk_fastmelee",
+                        "FullyLoaded": "maxammo",
+                        "F-Disabling": "ammomod_slow",
+                        "SleightOfHand": "fastreload",
+                        "F-Wounding": "ammomod_wound",
+                        "Mo'Money": "gunperk_xp",
+                        "Recon": "gunperk_marksman",
+                        "HeavyHitter": "gunperk_hardmelee",
+                        "FMJ": "fmj"
+                    }
+                }
+            }
+        }
+    }
+}

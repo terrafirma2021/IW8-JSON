@@ -1,0 +1,7 @@
+{
+    "PRIMARY_WEAPONS": {
+        "MELEE": {
+            "RiotShield": "iw8_me_riotshield"
+        }
+    }
+}
